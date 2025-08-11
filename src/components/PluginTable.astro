@@ -152,6 +152,17 @@ const sortedPlugins = sortData(plugins, sortKey, sortAsc);
                 ) {
                   value = value.slice(0, 10); // YYYY-MM-DD
                 }
+                // Render repo as a clickable markdown-like link
+                if (col.key === "repo" && value) {
+                  const url = `https://github.com/${value}`;
+                  return (
+                    <td>
+                      <a href={url} target='_blank' rel='noopener noreferrer'>
+                        {value}
+                      </a>
+                    </td>
+                  );
+                }
                 return (
                   <td
                     class={
