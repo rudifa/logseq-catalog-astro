@@ -33,9 +33,14 @@ function sortData(data, key, asc) {
 const sortedPlugins = sortData(plugins, sortKey, sortAsc);
 ---
 
+<h1
+  style='position:sticky;top:0;z-index:10;background:#fff;margin-bottom:5px;padding:1rem 0 1rem 0;border-bottom:2px solid #eee;text-align:center;'>
+  Logseq Marketplace Plugins
+</h1>
 <table
   id='plugin-table'
   border='1'
+  style='margin-top:5px'
   style='border-collapse:collapse;width:100%;'>
   <thead
     style={`position:sticky;top:${Astro.props?.stickyOffset || "0"};z-index:11;background:#fff;`}>
