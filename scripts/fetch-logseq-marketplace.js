@@ -51,9 +51,9 @@ async function fetchManifest(packageName) {
       return null;
     }
     const manifest = await res.json();
-    // Add iconUrl if icon is present
+    // Add iconUrl if icon is present, using raw.githubusercontent.com for CORS compatibility
     if (manifest.icon) {
-      manifest.iconUrl = `https://github.com/logseq/marketplace/blob/master/packages/${packageName}/${manifest.icon}?raw=true`;
+      manifest.iconUrl = `https://raw.githubusercontent.com/logseq/marketplace/master/packages/${packageName}/${manifest.icon}`;
     } else {
       manifest.iconUrl = "";
     }
@@ -129,6 +129,10 @@ async function main() {
       count++;
       if (count % 10 === 0) {
         console.log(`Processed ${count} packages...`);
+      }
+      if (count >= 50) {
+        console.log(`Processed ${count} packages. Stopping early.`);
+        break;
       }
     }
     fs.writeFileSync(
