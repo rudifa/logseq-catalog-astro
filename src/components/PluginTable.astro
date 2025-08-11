@@ -37,11 +37,17 @@ const sortedPlugins = sortData(plugins, sortKey, sortAsc);
   <thead>
     <tr>
       {
-        columns.map((col) => (
-          <th style='cursor:pointer' onclick={`sortTable('${col.key}')`}>
-            {col.label}
-          </th>
-        ))
+        columns.map((col) => {
+          let thStyle = "cursor:pointer";
+          if (col.key === "created_at" || col.key === "last_updated") {
+            thStyle += ";width:12ch";
+          }
+          return (
+            <th style={thStyle} onclick={`sortTable('${col.key}')`}>
+              {col.label}
+            </th>
+          );
+        })
       }
     </tr>
   </thead>
@@ -49,9 +55,20 @@ const sortedPlugins = sortData(plugins, sortKey, sortAsc);
     {
       sortedPlugins.map((plugin) => (
         <tr>
-          {columns.map((col) => (
-            <td>{plugin[col.key] || ""}</td>
-          ))}
+          {columns.map((col) => {
+            let value = plugin[col.key] || "";
+            let tdStyle = "";
+            if (col.key === "created_at" || col.key === "last_updated") {
+              tdStyle = "width:12ch";
+            }
+            if (
+              (col.key === "created_at" || col.key === "last_updated") &&
+              value
+            ) {
+              value = value.slice(0, 10); // YYYY-MM-DD
+            }
+            return <td style={tdStyle}>{value}</td>;
+          })}
         </tr>
       ))
     }
