@@ -60,24 +60,35 @@ async function fetchManifest(packageName) {
       if (!fs.existsSync(localIconDir)) {
         fs.mkdirSync(localIconDir, { recursive: true });
       }
-      const ext = path.extname(manifest.icon) || ".png";
-      const localIconName = `${packageName}${ext}`;
-      const localIconPath = path.join(localIconDir, localIconName);
-      const localIconUrl = `/icons/${localIconName}`;
+      const ext = path.extname(manifest.icon).toLowerCase() || ".png";
+      let localIconName, localIconPath, localIconUrl;
       try {
         const iconRes = await fetch(remoteIconUrl);
         if (!iconRes.ok) {
           console.error(`Icon fetch failed for ${packageName}: ${remoteIconUrl} (status: ${iconRes.status} ${iconRes.statusText})`);
           manifest.iconUrl = "";
+        } else if (ext === ".svg") {
+          // Save SVG as-is
+          localIconName = `${packageName}.svg`;
+          localIconPath = path.join(localIconDir, localIconName);
+          localIconUrl = `/icons/${localIconName}`;
+          const svgBuffer = Buffer.from(await iconRes.arrayBuffer());
+          fs.writeFileSync(localIconPath, svgBuffer);
+          manifest.iconUrl = localIconUrl;
         } else {
+          // Convert to PNG and update extension
+          localIconName = `${packageName}.png`;
+          localIconPath = path.join(localIconDir, localIconName);
+          localIconUrl = `/icons/${localIconName}`;
           const buffer = await iconRes.arrayBuffer();
           await sharp(Buffer.from(buffer))
             .resize(32, 32)
+            .png()
             .toFile(localIconPath);
           manifest.iconUrl = localIconUrl;
         }
       } catch (iconErr) {
-        console.error(`Error fetching or resizing icon for ${packageName}: ${remoteIconUrl}`, iconErr);
+        console.error(`Error fetching or processing icon for ${packageName}: ${remoteIconUrl}`, iconErr);
         manifest.iconUrl = "";
       }
     } else {
