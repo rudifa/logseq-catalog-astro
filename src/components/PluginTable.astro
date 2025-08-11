@@ -33,57 +33,143 @@ function sortData(data, key, asc) {
 const sortedPlugins = sortData(plugins, sortKey, sortAsc);
 ---
 
-<h1
-  style='position:sticky;top:0;z-index:10;background:#fff;margin-bottom:5px;padding:1rem 0 1rem 0;border-bottom:2px solid #eee;text-align:center;'>
-  Logseq Marketplace Plugins
-</h1>
-<table
-  id='plugin-table'
-  border='1'
-  style='margin-top:5px'
-  style='border-collapse:collapse;width:100%;'>
-  <thead
-    style={`position:sticky;top:${Astro.props?.stickyOffset || "0"};z-index:11;background:#fff;`}>
-    <tr>
-      {
-        columns.map((col) => {
-          let thStyle = "cursor:pointer";
-          if (col.key === "created_at" || col.key === "last_updated") {
-            thStyle += ";width:12ch";
-          }
-          thStyle += ";background:#fff;";
-          return (
-            <th style={thStyle} onclick={`sortTable('${col.key}')`}>
-              {col.label}
-            </th>
-          );
-        })
-      }
-    </tr>
-  </thead>
-  <tbody>
-    {
-      sortedPlugins.map((plugin) => (
+<style>
+  .plugin-table-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    overflow: hidden;
+    background-color: #002c38;
+    box-sizing: border-box;
+    border: 2px solid #6ecac9;
+    outline: 1px solid #002c38;
+    font-family: Arial, sans-serif; /* Add this line */
+    font-size: 14px; /* Add this line to set the base font size */
+  }
+
+  h1 {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    background: #002c38; /* Darker Logseq logo color */
+    margin: 0;
+    padding: 1rem 0;
+    border-bottom: 2px solid #6ecac9; /* Light border for contrast */
+    text-align: center;
+    color: #fff; /* White text for better readability */
+  }
+
+  .table-container {
+    flex: 1;
+    overflow-y: auto;
+    margin: 1rem 12px;
+    background-color: #fff; /* White background for the table */
+    border-radius: 8px; /* Optional: rounded corners for the table container */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow for depth */
+  }
+
+  table {
+    border-collapse: separate;
+    border-spacing: 0;
+    width: 100%;
+  }
+
+  thead {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+
+  th {
+    cursor: pointer;
+    background: #fff;
+    padding: 0.5rem;
+    border-top: 1.15px solid #000;
+    border-bottom: 1.15px solid #000;
+    position: sticky;
+    top: 0;
+  }
+
+  td {
+    padding: 0.5rem;
+    border-bottom: 1px solid #eee;
+  }
+
+  .date-column {
+    width: 12ch;
+  }
+
+  tbody tr:nth-child(even) {
+    background-color: #f0f0f0; /* Light gray for even rows */
+  }
+
+  tbody tr:nth-child(odd) {
+    background-color: #ffffff; /* White for odd rows */
+  }
+
+  tbody tr:hover {
+    background-color: #6ecac9 !important; /* Logseq logo color for hover effect */
+    color: #fff !important; /* White text for better contrast on hover */
+    text-shadow: 0 0 2px rgba(0, 0, 0, 0.7) !important; /* Add a subtle text shadow */
+  }
+
+  /* Add a subtle transition for a smoother hover effect */
+  tbody tr {
+    transition: all 0.2s ease;
+  }
+</style>
+
+<div class='plugin-table-container'>
+  <h1>Logseq Marketplace Plugins</h1>
+  <div class='table-container'>
+    <table id='plugin-table' border='1'>
+      <thead style={`--sticky-offset:${Astro.props?.stickyOffset || "0"};`}>
         <tr>
-          {columns.map((col) => {
-            let value = plugin[col.key] || "";
-            let tdStyle = "";
-            if (col.key === "created_at" || col.key === "last_updated") {
-              tdStyle = "width:12ch";
-            }
-            if (
-              (col.key === "created_at" || col.key === "last_updated") &&
-              value
-            ) {
-              value = value.slice(0, 10); // YYYY-MM-DD
-            }
-            return <td style={tdStyle}>{value}</td>;
-          })}
+          {
+            columns.map((col) => (
+              <th
+                class={
+                  col.key === "created_at" || col.key === "last_updated"
+                    ? "date-column"
+                    : ""
+                }
+                onclick={`sortTable('${col.key}')`}>
+                {col.label}
+              </th>
+            ))
+          }
         </tr>
-      ))
-    }
-  </tbody>
-</table>
+      </thead>
+      <tbody>
+        {
+          sortedPlugins.map((plugin) => (
+            <tr>
+              {columns.map((col) => {
+                let value = plugin[col.key] || "";
+                if (
+                  (col.key === "created_at" || col.key === "last_updated") &&
+                  value
+                ) {
+                  value = value.slice(0, 10); // YYYY-MM-DD
+                }
+                return (
+                  <td
+                    class={
+                      col.key === "created_at" || col.key === "last_updated"
+                        ? "date-column"
+                        : ""
+                    }>
+                    {value}
+                  </td>
+                );
+              })}
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </div>
+</div>
 
 <script>
   const columns = [
