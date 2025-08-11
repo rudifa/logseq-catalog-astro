@@ -99,6 +99,10 @@ async function main() {
       const manifest = await fetchManifest(pkg.name);
       const commitDates = await fetchCommitDates(pkg.name);
       if (manifest) {
+        let iconUrl = "";
+        if (manifest.icon) {
+          iconUrl = `https://raw.githubusercontent.com/logseq/marketplace/master/packages/${pkg.name}/${manifest.icon}`;
+        }
         results.push({
           name: manifest.name || pkg.name,
           id: manifest.id || "",
@@ -107,6 +111,7 @@ async function main() {
           repo: manifest.repo || "",
           version: manifest.version || "",
           dir: pkg.name,
+          iconUrl,
           created_at: commitDates.created_at,
           last_updated: commitDates.last_updated,
         });
@@ -114,6 +119,7 @@ async function main() {
         results.push({
           name: pkg.name,
           error: "No manifest.json",
+          iconUrl: "",
           created_at: commitDates.created_at,
           last_updated: commitDates.last_updated,
         });
