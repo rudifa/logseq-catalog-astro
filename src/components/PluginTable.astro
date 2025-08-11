@@ -1,0 +1,94 @@
+---
+import fs from "fs";
+import path from "path";
+
+// Load data at build time
+const dataPath = path.resolve(
+  import.meta.env.SRC_DIR || "./src",
+  "data/logseq-marketplace-plugins.json"
+);
+const plugins = JSON.parse(fs.readFileSync(dataPath, "utf-8"));
+
+const columns = [
+  {key: "name", label: "Name"},
+  {key: "description", label: "Description"},
+  {key: "author", label: "Author"},
+  {key: "repo", label: "Repo"},
+  {key: "version", label: "Version"},
+  {key: "created_at", label: "Created"},
+  {key: "last_updated", label: "Updated"},
+];
+
+let sortKey = "name";
+let sortAsc = true;
+
+function sortData(data, key, asc) {
+  return [...data].sort((a, b) => {
+    if (a[key] < b[key]) return asc ? -1 : 1;
+    if (a[key] > b[key]) return asc ? 1 : -1;
+    return 0;
+  });
+}
+
+const sortedPlugins = sortData(plugins, sortKey, sortAsc);
+---
+
+<table id='plugin-table' border='1' style='border-collapse:collapse;width:100%'>
+  <thead>
+    <tr>
+      {
+        columns.map((col) => (
+          <th style='cursor:pointer' onclick={`sortTable('${col.key}')`}>
+            {col.label}
+          </th>
+        ))
+      }
+    </tr>
+  </thead>
+  <tbody>
+    {
+      sortedPlugins.map((plugin) => (
+        <tr>
+          {columns.map((col) => (
+            <td>{plugin[col.key] || ""}</td>
+          ))}
+        </tr>
+      ))
+    }
+  </tbody>
+</table>
+
+<script type='module'>
+  let sortKey = "name";
+  let sortAsc = true;
+
+  function sortTable(key) {
+    if (sortKey === key) {
+      sortAsc = !sortAsc;
+    } else {
+      sortKey = key;
+      sortAsc = true;
+    }
+    const rows = Array.from(
+      document.querySelectorAll("#plugin-table tbody tr")
+    );
+    rows.sort((a, b) => {
+      const aText = a
+        .querySelector(
+          `td:nth-child(${columns.findIndex((c) => c.key === key) + 1})`
+        )
+        .textContent.trim();
+      const bText = b
+        .querySelector(
+          `td:nth-child(${columns.findIndex((c) => c.key === key) + 1})`
+        )
+        .textContent.trim();
+      if (aText < bText) return sortAsc ? -1 : 1;
+      if (aText > bText) return sortAsc ? 1 : -1;
+      return 0;
+    });
+    const tbody = document.querySelector("#plugin-table tbody");
+    rows.forEach((row) => tbody.appendChild(row));
+  }
+  window.sortTable = sortTable;
+</script>
