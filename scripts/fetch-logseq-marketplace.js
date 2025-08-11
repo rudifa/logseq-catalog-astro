@@ -51,6 +51,12 @@ async function fetchManifest(packageName) {
       return null;
     }
     const manifest = await res.json();
+    // Add iconUrl if icon is present
+    if (manifest.icon) {
+      manifest.iconUrl = `https://github.com/logseq/marketplace/blob/master/packages/${packageName}/${manifest.icon}?raw=true`;
+    } else {
+      manifest.iconUrl = "";
+    }
     console.log(`Fetched manifest for ${packageName}`);
     return manifest;
   } catch (err) {
@@ -99,10 +105,6 @@ async function main() {
       const manifest = await fetchManifest(pkg.name);
       const commitDates = await fetchCommitDates(pkg.name);
       if (manifest) {
-        let iconUrl = "";
-        if (manifest.icon) {
-          iconUrl = `https://raw.githubusercontent.com/logseq/marketplace/master/packages/${pkg.name}/${manifest.icon}`;
-        }
         results.push({
           name: manifest.name || pkg.name,
           id: manifest.id || "",
@@ -111,7 +113,7 @@ async function main() {
           repo: manifest.repo || "",
           version: manifest.version || "",
           dir: pkg.name,
-          iconUrl,
+          iconUrl: manifest.iconUrl,
           created_at: commitDates.created_at,
           last_updated: commitDates.last_updated,
         });
