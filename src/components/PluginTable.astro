@@ -33,8 +33,12 @@ function sortData(data, key, asc) {
 const sortedPlugins = sortData(plugins, sortKey, sortAsc);
 ---
 
-<table id='plugin-table' border='1' style='border-collapse:collapse;width:100%'>
-  <thead>
+<table
+  id='plugin-table'
+  border='1'
+  style='border-collapse:collapse;width:100%;'>
+  <thead
+    style={`position:sticky;top:${Astro.props?.stickyOffset || "0"};z-index:11;background:#fff;`}>
     <tr>
       {
         columns.map((col) => {
@@ -42,6 +46,7 @@ const sortedPlugins = sortData(plugins, sortKey, sortAsc);
           if (col.key === "created_at" || col.key === "last_updated") {
             thStyle += ";width:12ch";
           }
+          thStyle += ";background:#fff;";
           return (
             <th style={thStyle} onclick={`sortTable('${col.key}')`}>
               {col.label}
