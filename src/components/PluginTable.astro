@@ -10,6 +10,7 @@ const dataPath = path.resolve(
 const plugins = JSON.parse(fs.readFileSync(dataPath, "utf-8"));
 
 const columns = [
+  {key: "iconUrl", label: ""},
   {key: "name", label: "Name"},
   {key: "description", label: "Description"},
   {key: "author", label: "Author"},
@@ -151,6 +152,24 @@ const sortedPlugins = sortData(plugins, sortKey, sortAsc);
                   value
                 ) {
                   value = value.slice(0, 10); // YYYY-MM-DD
+                }
+                // Render icon as 16x16px image if iconUrl is present
+                if (col.key === "iconUrl") {
+                  return (
+                    <td style='width:22px;text-align:center;vertical-align:middle;'>
+                      {value ? (
+                        <img
+                          src={value}
+                          alt={plugin.name + " icon"}
+                          width='16'
+                          height='16'
+                          style='object-fit:contain;vertical-align:middle;'
+                        />
+                      ) : (
+                        ""
+                      )}
+                    </td>
+                  );
                 }
                 // Render repo as a clickable markdown-like link
                 if (col.key === "repo" && value) {
