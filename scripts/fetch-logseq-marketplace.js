@@ -5,6 +5,8 @@
 
 import fetch from "node-fetch";
 import fs from "fs";
+import sharp from "sharp";
+import path from "path";
 
 const OUTPUT_DIR = "src/data";
 const OUTPUT_FILE = "logseq-marketplace-plugins.json";
@@ -53,7 +55,31 @@ async function fetchManifest(packageName) {
     const manifest = await res.json();
     // Add iconUrl if icon is present, using raw.githubusercontent.com for CORS compatibility
     if (manifest.icon) {
-      manifest.iconUrl = `https://raw.githubusercontent.com/logseq/marketplace/master/packages/${packageName}/${manifest.icon}`;
+      const remoteIconUrl = `https://raw.githubusercontent.com/logseq/marketplace/master/packages/${packageName}/${manifest.icon}`;
+      const localIconDir = path.resolve("public/icons");
+      if (!fs.existsSync(localIconDir)) {
+        fs.mkdirSync(localIconDir, { recursive: true });
+      }
+      const ext = path.extname(manifest.icon) || ".png";
+      const localIconName = `${packageName}${ext}`;
+      const localIconPath = path.join(localIconDir, localIconName);
+      const localIconUrl = `/icons/${localIconName}`;
+      try {
+        const iconRes = await fetch(remoteIconUrl);
+        if (!iconRes.ok) {
+          console.error(`Icon fetch failed for ${packageName}: ${remoteIconUrl} (status: ${iconRes.status} ${iconRes.statusText})`);
+          manifest.iconUrl = "";
+        } else {
+          const buffer = await iconRes.arrayBuffer();
+          await sharp(Buffer.from(buffer))
+            .resize(32, 32)
+            .toFile(localIconPath);
+          manifest.iconUrl = localIconUrl;
+        }
+      } catch (iconErr) {
+        console.error(`Error fetching or resizing icon for ${packageName}: ${remoteIconUrl}`, iconErr);
+        manifest.iconUrl = "";
+      }
     } else {
       manifest.iconUrl = "";
     }
@@ -130,10 +156,10 @@ async function main() {
       if (count % 10 === 0) {
         console.log(`Processed ${count} packages...`);
       }
-      if (count >= 50) {
-        console.log(`Processed ${count} packages. Stopping early.`);
-        break;
-      }
+    //   if (count >= 50) {
+    //     console.log(`Processed ${count} packages. Stopping early.`);
+    //     break;
+    //   }
     }
     fs.writeFileSync(
       outputPath,
