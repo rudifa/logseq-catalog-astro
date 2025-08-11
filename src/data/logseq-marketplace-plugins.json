@@ -651,8 +651,8 @@
     "repo": "hkgnp/logseq-calview-plugin",
     "version": "",
     "dir": "logseq-calview-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-02-20T16:12:35Z",
+    "last_updated": "2022-02-20T16:12:35Z"
   },
   {
     "name": "logseq-cardbox",
@@ -662,8 +662,8 @@
     "repo": "sosuisen/logseq-cardbox",
     "version": "",
     "dir": "logseq-cardbox",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-11-16T05:02:31Z",
+    "last_updated": "2023-11-16T05:02:31Z"
   },
   {
     "name": "Logseq Case converter",
@@ -673,8 +673,8 @@
     "repo": "sawhney17/logseq-case-converter",
     "version": "",
     "dir": "logseq-case-converter",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-02-14T08:55:41Z",
+    "last_updated": "2022-03-23T05:11:06Z"
   },
   {
     "name": "logseq-catppuccin",
@@ -684,8 +684,8 @@
     "repo": "catppuccin/logseq",
     "version": "",
     "dir": "logseq-catppuccin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-01-29T21:48:22Z",
+    "last_updated": "2023-01-29T21:51:41Z"
   },
   {
     "name": "logseq-charspacing",
@@ -695,8 +695,8 @@
     "repo": "sethyuan/logseq-plugin-charspacing",
     "version": "",
     "dir": "logseq-charspacing",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-12-14T09:48:08Z",
+    "last_updated": "2023-05-29T02:34:46Z"
   },
   {
     "name": "logseq-chartrender-plugin",
@@ -706,8 +706,8 @@
     "repo": "hkgnp/logseq-chartrender-plugin",
     "version": "",
     "dir": "logseq-chartrender-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-12-31T16:32:25Z",
+    "last_updated": "2022-02-06T03:04:26Z"
   },
   {
     "name": "logseq-chatgpt-plugin",
@@ -717,8 +717,8 @@
     "repo": "debanjandhar12/logseq-chatgpt-plugin",
     "version": "",
     "dir": "logseq-chatgpt-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-03-23T08:09:57Z",
+    "last_updated": "2023-03-23T08:10:22Z"
   },
   {
     "name": "logseq-chess",
@@ -728,8 +728,8 @@
     "repo": "r8/logseq-chess",
     "version": "",
     "dir": "logseq-chess",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-07-10T20:41:10Z",
+    "last_updated": "2023-08-05T18:56:35Z"
   },
   {
     "name": "logseq-chinese-idiom-dictionary",
@@ -739,8 +739,8 @@
     "repo": "b-yp/logseq-chinese-idiom-dictionary",
     "version": "",
     "dir": "logseq-chinese-idiom-dictionary",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-07-04T15:37:08Z",
+    "last_updated": "2023-07-05T03:16:53Z"
   },
   {
     "name": "logseq-chinese-tools",
@@ -750,8 +750,8 @@
     "repo": "piobmx/logseq-chinese-tools",
     "version": "",
     "dir": "logseq-chinese-tools",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-08-07T20:48:19Z",
+    "last_updated": "2022-08-07T20:48:19Z"
   },
   {
     "name": "logseq-citation-manager",
@@ -761,8 +761,8 @@
     "repo": "sawhney17/logseq-citation-manager",
     "version": "",
     "dir": "logseq-citation-manager",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-07-09T08:14:37Z",
+    "last_updated": "2022-07-09T10:52:38Z"
   },
   {
     "name": "logseq-classy",
@@ -772,8 +772,8 @@
     "repo": "mlanza/logseq-classy",
     "version": "",
     "dir": "logseq-classy",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-05-12T12:32:25Z",
+    "last_updated": "2022-05-12T12:32:25Z"
   },
   {
     "name": "logseq-clock-plugin",
@@ -783,8 +783,8 @@
     "repo": "hkgnp/logseq-clock-plugin",
     "version": "",
     "dir": "logseq-clock-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-11-30T03:24:55Z",
+    "last_updated": "2022-11-30T03:24:55Z"
   },
   {
     "name": "logseq-code-formatter",
@@ -794,8 +794,8 @@
     "repo": "PerfectPan/logseq-plugin-code-formatter",
     "version": "",
     "dir": "logseq-code-formatter",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-11-13T16:04:22Z",
+    "last_updated": "2022-11-13T16:04:22Z"
   },
   {
     "name": "logseq-color-markup",
@@ -805,8 +805,8 @@
     "repo": "clemtibs/logseq-color-markup",
     "version": "",
     "dir": "logseq-color-markup",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-02-04T04:17:32Z",
+    "last_updated": "2025-02-04T04:17:32Z"
   },
   {
     "name": "logseq-column-layout",
@@ -816,8 +816,8 @@
     "repo": "YU000jp/Logseq-column-Layout",
     "version": "",
     "dir": "logseq-column-layout",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-09-13T06:33:08Z",
+    "last_updated": "2023-11-12T05:13:46Z"
   },
   {
     "name": "logseq-comment-block",
@@ -827,8 +827,8 @@
     "repo": "vipzhicheng/logseq-plugin-comment-block",
     "version": "",
     "dir": "logseq-comment-block",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-12-03T06:59:20Z",
+    "last_updated": "2022-04-08T03:23:05Z"
   },
   {
     "name": "logseq-composer",
@@ -838,8 +838,8 @@
     "repo": "martindev9999/logseq-composer",
     "version": "",
     "dir": "logseq-composer",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-04-11T21:18:02Z",
+    "last_updated": "2025-04-11T21:18:02Z"
   },
   {
     "name": "logseq-copilot",
@@ -849,8 +849,8 @@
     "repo": "jarodise/logseq-copilot",
     "version": "",
     "dir": "logseq-copilot",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-12-08T00:39:06Z",
+    "last_updated": "2024-12-11T02:59:41Z"
   },
   {
     "name": "logseq-copy-code-plugin",
@@ -860,8 +860,8 @@
     "repo": "vyleung/logseq-copy-code-plugin",
     "version": "",
     "dir": "logseq-copy-code-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-05-08T16:57:59Z",
+    "last_updated": "2022-05-13T16:10:05Z"
   },
   {
     "name": "logseq-copy-url",
@@ -871,8 +871,8 @@
     "repo": "RubenSmn/logseq-copy-url",
     "version": "",
     "dir": "logseq-copy-url",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-11-28T13:01:58Z",
+    "last_updated": "2023-11-29T01:46:43Z"
   },
   {
     "name": "logseq-craft-theme",
@@ -882,8 +882,8 @@
     "repo": "rcvd/logseq-craft-theme",
     "version": "",
     "dir": "logseq-craft-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-02-07T19:58:35Z",
+    "last_updated": "2022-02-07T19:58:35Z"
   },
   {
     "name": "logseq-crypto",
@@ -893,8 +893,8 @@
     "repo": "tejonaco/logseq-crypto",
     "version": "",
     "dir": "logseq-crypto",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-05-10T20:26:13Z",
+    "last_updated": "2024-05-12T09:50:08Z"
   },
   {
     "name": "logseq-cusgit-theme",
@@ -904,8 +904,8 @@
     "repo": "mendax1234/logseq-cusgit-theme",
     "version": "",
     "dir": "logseq-cusgit-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-05-26T14:48:33Z",
+    "last_updated": "2022-05-27T01:00:01Z"
   },
   {
     "name": "logseq-custom-workflows",
@@ -915,8 +915,8 @@
     "repo": "sawhney17/logseq-custom-workflow-plugin",
     "version": "",
     "dir": "logseq-custom-workflows",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-03-14T15:54:45Z",
+    "last_updated": "2022-03-14T15:54:45Z"
   },
   {
     "name": "logseq-cuvee",
@@ -926,8 +926,8 @@
     "repo": "QWxleA/logseq-cuvee",
     "version": "",
     "dir": "logseq-cuvee",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-04-21T11:35:59Z",
+    "last_updated": "2022-04-21T11:35:59Z"
   },
   {
     "name": "logseq-d2",
@@ -937,8 +937,8 @@
     "repo": "b-yp/logseq-d2",
     "version": "",
     "dir": "logseq-d2",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-02-26T03:50:09Z",
+    "last_updated": "2023-06-21T03:04:25Z"
   },
   {
     "name": "logseq-d42ker-theme",
@@ -948,8 +948,8 @@
     "repo": "l3ony2k/D42ker-Logseq",
     "version": "",
     "dir": "logseq-d42ker-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-10-12T16:31:11Z",
+    "last_updated": "2023-03-29T04:18:46Z"
   },
   {
     "name": "logseq-date-between",
@@ -959,8 +959,8 @@
     "repo": "Cologler/logseq-date-between-typescript",
     "version": "",
     "dir": "logseq-date-between",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-02-02T10:14:43Z",
+    "last_updated": "2023-02-02T10:14:43Z"
   },
   {
     "name": "logseq-datenlp-plugin",
@@ -970,8 +970,8 @@
     "repo": "hkgnp/logseq-datenlp-plugin",
     "version": "",
     "dir": "logseq-datenlp-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-01-17T16:17:32Z",
+    "last_updated": "2022-02-06T03:04:26Z"
   },
   {
     "name": "Logseq DateTag Plugin",
@@ -981,8 +981,8 @@
     "repo": "sawhney17/logseq-datetag-plugin",
     "version": "",
     "dir": "logseq-datetag-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-02-06T20:34:28Z",
+    "last_updated": "2022-03-23T05:11:06Z"
   },
   {
     "name": "logseq-days",
@@ -992,8 +992,8 @@
     "repo": "sethyuan/logseq-plugin-days",
     "version": "",
     "dir": "logseq-days",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-10-31T09:42:51Z",
+    "last_updated": "2023-05-29T02:34:46Z"
   },
   {
     "name": "logseq-deadline-countdown",
@@ -1003,8 +1003,8 @@
     "repo": "xxchan/logseq-deadline-countdown",
     "version": "",
     "dir": "logseq-deadline-countdown",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-02-03T19:31:59Z",
+    "last_updated": "2022-04-03T07:53:30Z"
   },
   {
     "name": "logseq-dev-theme",
@@ -1014,8 +1014,8 @@
     "repo": "pengx17/logseq-dev-theme",
     "version": "",
     "dir": "logseq-dev-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-09-03T10:20:01Z",
+    "last_updated": "2021-09-03T10:20:01Z"
   },
   {
     "name": "logseq-developer-theme",
@@ -1025,8 +1025,8 @@
     "repo": "UNICKCHENG/logseq-developer-theme",
     "version": "",
     "dir": "logseq-developer-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-12-10T06:32:38Z",
+    "last_updated": "2022-12-13T18:13:57Z"
   },
   {
     "name": "logseq-diagrams-as-code",
@@ -1036,8 +1036,8 @@
     "repo": "npgrosser/logseq-diagrams-as-code",
     "version": "",
     "dir": "logseq-diagrams-as-code",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-02-21T00:23:43Z",
+    "last_updated": "2022-12-28T16:17:34Z"
   },
   {
     "name": "logseq-dicord-like-dark-theme",
@@ -1047,8 +1047,8 @@
     "repo": "dale502/logseq-discord-like-dark-theme",
     "version": "",
     "dir": "logseq-dicord-like-dark-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-09-26T07:48:08Z",
+    "last_updated": "2021-09-26T07:48:08Z"
   },
   {
     "name": "Logseq Dictionary",
@@ -1058,8 +1058,8 @@
     "repo": "trashhalo/logseq-dictionary",
     "version": "",
     "dir": "logseq-dictionary",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-09-03T12:11:16Z",
+    "last_updated": "2022-09-03T12:11:16Z"
   },
   {
     "name": "logseq-discourse-graphs",
@@ -1069,8 +1069,8 @@
     "repo": "sawhney17/logseq-discourse-graphs",
     "version": "",
     "dir": "logseq-discourse-graphs",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-12-21T07:32:21Z",
+    "last_updated": "2023-12-21T07:32:21Z"
   },
   {
     "name": "logseq-display-math",
@@ -1080,8 +1080,8 @@
     "repo": "AllanChain/logseq-display-math",
     "version": "",
     "dir": "logseq-display-math",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-06-10T12:00:32Z",
+    "last_updated": "2023-08-23T10:40:47Z"
   },
   {
     "name": "logseq-doc",
@@ -1091,8 +1091,8 @@
     "repo": "sethyuan/logseq-plugin-doc",
     "version": "",
     "dir": "logseq-doc",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-12-24T04:42:59Z",
+    "last_updated": "2023-05-29T02:34:46Z"
   },
   {
     "name": "logseq-done-time",
@@ -1102,8 +1102,8 @@
     "repo": "mjs/logseq-done-time",
     "version": "",
     "dir": "logseq-done-time",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-03-13T18:09:53Z",
+    "last_updated": "2024-03-13T18:09:53Z"
   },
   {
     "name": "logseq-dracula-theme",
@@ -1113,8 +1113,8 @@
     "repo": "dracula/logseq",
     "version": "",
     "dir": "logseq-dracula-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-09-22T15:22:48Z",
+    "last_updated": "2021-09-22T15:22:48Z"
   },
   {
     "name": "logseq-drawio-plugin",
@@ -1124,8 +1124,8 @@
     "repo": "lee88688/logseq-drawio-plugin",
     "version": "",
     "dir": "logseq-drawio-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-05-21T15:48:14Z",
+    "last_updated": "2023-06-20T15:15:24Z"
   },
   {
     "name": "logseq-drawit",
@@ -1135,8 +1135,8 @@
     "repo": "sethyuan/logseq-plugin-drawit",
     "version": "",
     "dir": "logseq-drawit",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-05-22T01:24:15Z",
+    "last_updated": "2023-05-29T02:34:46Z"
   },
   {
     "name": "logseq-echarts-plugin",
@@ -1146,8 +1146,8 @@
     "repo": "guzhongren/logseq-echarts",
     "version": "",
     "dir": "logseq-echarts-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-08-27T04:07:42Z",
+    "last_updated": "2023-05-05T04:24:44Z"
   },
   {
     "name": "logseq-eink-plus",
@@ -1157,8 +1157,8 @@
     "repo": "candideu/logseq-eink-plus",
     "version": "",
     "dir": "logseq-eink-plus",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-04-29T04:39:50Z",
+    "last_updated": "2023-05-22T03:39:03Z"
   },
   {
     "name": "logseq-eink-theme",
@@ -1168,8 +1168,8 @@
     "repo": "DiamondYuan/logseq-eink-theme",
     "version": "",
     "dir": "logseq-eink-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-09-23T12:27:48Z",
+    "last_updated": "2021-09-26T01:42:31Z"
   },
   {
     "name": "logseq-elysium",
@@ -1179,8 +1179,8 @@
     "repo": "elysium-tms/logseq-elysium",
     "version": "",
     "dir": "logseq-elysium",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-10-20T14:11:46Z",
+    "last_updated": "2024-10-20T14:11:46Z"
   },
   {
     "name": "logseq-emoji-picker-fork",
@@ -1190,8 +1190,8 @@
     "repo": "walsvid/logseq-emoji-picker-fork",
     "version": "",
     "dir": "logseq-emoji-picker-fork",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-07-06T02:47:32Z",
+    "last_updated": "2022-07-15T02:45:30Z"
   },
   {
     "name": "logseq-emoji-shortcodes",
@@ -1201,8 +1201,8 @@
     "repo": "daviddavo/logseq-emoji-shortcodes",
     "version": "",
     "dir": "logseq-emoji-shortcodes",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-04-05T13:08:35Z",
+    "last_updated": "2024-04-06T08:22:54Z"
   },
   {
     "name": "logseq-everforest-theme",
@@ -1212,8 +1212,8 @@
     "repo": "khoulihan/logseq-everforest-theme",
     "version": "",
     "dir": "logseq-everforest-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-01-27T14:38:09Z",
+    "last_updated": "2024-01-27T14:38:09Z"
   },
   {
     "name": "logseq-excalidraw",
@@ -1223,8 +1223,8 @@
     "repo": "haydenull/logseq-plugin-excalidraw",
     "version": "",
     "dir": "logseq-excalidraw",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-04-26T11:29:26Z",
+    "last_updated": "2023-04-26T11:29:26Z"
   },
   {
     "name": "logseq-export-block",
@@ -1234,8 +1234,8 @@
     "repo": "avelino/logseq-export-block",
     "version": "",
     "dir": "logseq-export-block",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-03-29T02:24:42Z",
+    "last_updated": "2025-03-29T02:24:42Z"
   },
   {
     "name": "logseq-extensions-plus",
@@ -1245,8 +1245,8 @@
     "repo": "xyhp915/logseq-extensions-plus",
     "version": "",
     "dir": "logseq-extensions-plus",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-12-03T06:23:17Z",
+    "last_updated": "2022-12-03T06:23:17Z"
   },
   {
     "name": "logseq-extract-plugin",
@@ -1256,8 +1256,8 @@
     "repo": "sidharth-panwar/logseq-extract-plugin",
     "version": "",
     "dir": "logseq-extract-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-10-04T18:20:56Z",
+    "last_updated": "2021-10-04T18:22:50Z"
   },
   {
     "name": "logseq-fenced-code-plus",
@@ -1267,8 +1267,8 @@
     "repo": "xyhp915/logseq-fenced-code-plus",
     "version": "",
     "dir": "logseq-fenced-code-plus",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-05-03T06:18:21Z",
+    "last_updated": "2022-05-03T06:18:21Z"
   },
   {
     "name": "logseq-figma",
@@ -1278,8 +1278,8 @@
     "repo": "CNLHC/logseq-figma",
     "version": "",
     "dir": "logseq-figma",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-10-24T13:40:05Z",
+    "last_updated": "2023-10-25T13:24:01Z"
   },
   {
     "name": "logseq-file-manager",
@@ -1289,8 +1289,8 @@
     "repo": "haydenull/logseq-plugin-file-manager",
     "version": "",
     "dir": "logseq-file-manager",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-04-20T03:36:19Z",
+    "last_updated": "2022-04-20T03:36:19Z"
   },
   {
     "name": "logseq-filepath-to-embed-converter",
@@ -1300,8 +1300,8 @@
     "repo": "chiimagnus/File-Path-to-Embed-Converter",
     "version": "",
     "dir": "logseq-filepath-to-embed-converter",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-02-22T02:21:33Z",
+    "last_updated": "2025-02-24T03:01:43Z"
   },
   {
     "name": "logseq-files-manager",
@@ -1311,8 +1311,8 @@
     "repo": "duiliuliu/logseq-plugin-files-manager",
     "version": "",
     "dir": "logseq-files-manager",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-09-19T09:46:28Z",
+    "last_updated": "2024-09-20T04:36:47Z"
   },
   {
     "name": "logseq-filterpage-plugin",
@@ -1322,8 +1322,8 @@
     "repo": "benjypng/logseq-filterpage-plugin",
     "version": "",
     "dir": "logseq-filterpage-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-08-31T07:40:30Z",
+    "last_updated": "2024-08-31T07:40:30Z"
   },
   {
     "name": "logseq-find-and-replace",
@@ -1333,8 +1333,8 @@
     "repo": "sawhney17/logseq-find-replace",
     "version": "",
     "dir": "logseq-find-and-replace",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-03-20T16:46:17Z",
+    "last_updated": "2022-03-21T02:47:47Z"
   },
   {
     "name": "logseq-flexoki-theme",
@@ -1344,8 +1344,8 @@
     "repo": "avelino/flexoki-logseq",
     "version": "",
     "dir": "logseq-flexoki-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-05-28T09:40:41Z",
+    "last_updated": "2025-05-28T09:40:41Z"
   },
   {
     "name": "logseq-flomo-plugin",
@@ -1355,8 +1355,8 @@
     "repo": "SeyeeL/logseq-flomo-plugin",
     "version": "",
     "dir": "logseq-flomo-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-05-06T12:45:50Z",
+    "last_updated": "2022-05-08T01:44:00Z"
   },
   {
     "name": "logseq-flow-nord-theme",
@@ -1366,8 +1366,8 @@
     "repo": "henices/logseq-flow-nord",
     "version": "",
     "dir": "logseq-flow-nord-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-05-25T10:32:04Z",
+    "last_updated": "2024-04-11T01:03:10Z"
   },
   {
     "name": "logseq-focus-mode",
@@ -1377,8 +1377,8 @@
     "repo": "sethfair/logseq-focus-mode",
     "version": "",
     "dir": "logseq-focus-mode",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-11-18T06:00:52Z",
+    "last_updated": "2021-11-21T02:59:29Z"
   },
   {
     "name": "logseq-footnote-plugin",
@@ -1388,8 +1388,8 @@
     "repo": "gremi-jr/logseq-footnote-plugin",
     "version": "",
     "dir": "logseq-footnote-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-06-16T19:38:00Z",
+    "last_updated": "2023-06-16T19:38:00Z"
   },
   {
     "name": "logseq-formula-ocr-plugin",
@@ -1399,8 +1399,8 @@
     "repo": "olmobaldoni/logseq-formula-ocr-plugin",
     "version": "",
     "dir": "logseq-formula-ocr-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-11-17T22:50:27Z",
+    "last_updated": "2023-11-19T02:14:10Z"
   },
   {
     "name": "logseq-furigana",
@@ -1410,8 +1410,8 @@
     "repo": "daviddavo/logseq-furigana",
     "version": "",
     "dir": "logseq-furigana",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-04-29T09:22:39Z",
+    "last_updated": "2024-04-01T10:56:00Z"
   },
   {
     "name": "logseq-gallery",
@@ -1421,8 +1421,8 @@
     "repo": "CorrectRoadH/logseq-gallery",
     "version": "",
     "dir": "logseq-gallery",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-02-04T00:40:33Z",
+    "last_updated": "2024-02-05T09:00:42Z"
   },
   {
     "name": "logseq-get-link-title",
@@ -1432,8 +1432,8 @@
     "repo": "abcvav/logseq-get-link-title",
     "version": "",
     "dir": "logseq-get-link-title",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-11-20T08:52:50Z",
+    "last_updated": "2023-12-19T03:06:59Z"
   },
   {
     "name": "logseq-get-youtube-captions",
@@ -1443,8 +1443,8 @@
     "repo": "briansunter/logseq-get-youtube-captions",
     "version": "",
     "dir": "logseq-get-youtube-captions",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-06-14T05:36:04Z",
+    "last_updated": "2022-06-14T05:36:04Z"
   },
   {
     "name": "logseq-git-diff-since",
@@ -1454,8 +1454,8 @@
     "repo": "Glooory/logseq-git-diff-since",
     "version": "",
     "dir": "logseq-git-diff-since",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-07-22T06:33:59Z",
+    "last_updated": "2023-07-22T06:33:59Z"
   },
   {
     "name": "logseq-git",
@@ -1465,8 +1465,8 @@
     "repo": "haydenull/logseq-plugin-git",
     "version": "",
     "dir": "logseq-git",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-05-05T00:29:09Z",
+    "last_updated": "2022-05-05T00:29:09Z"
   },
   {
     "name": "logseq-github-plugin-2",
@@ -1476,8 +1476,8 @@
     "repo": "happylolonly/logseq-github-plugin",
     "version": "",
     "dir": "logseq-github-plugin-2",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-05-10T04:57:23Z",
+    "last_updated": "2025-05-10T06:26:26Z"
   },
   {
     "name": "logseq-github-plugin",
@@ -1487,8 +1487,8 @@
     "repo": "sawhney17/logseq-github-plugin",
     "version": "",
     "dir": "logseq-github-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-03-27T17:13:40Z",
+    "last_updated": "2022-03-28T14:39:41Z"
   },
   {
     "name": "logseq-github-theme",
@@ -1498,8 +1498,8 @@
     "repo": "g1eny0ung/logseq-github-theme",
     "version": "",
     "dir": "logseq-github-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-03-12T14:06:47Z",
+    "last_updated": "2022-03-12T14:06:47Z"
   },
   {
     "name": "logseq-global-custom-css",
@@ -1509,8 +1509,8 @@
     "repo": "vipzhicheng/logseq-plugin-global-custom-css",
     "version": "",
     "dir": "logseq-global-custom-css",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-06-17T09:40:27Z",
+    "last_updated": "2022-06-17T09:40:27Z"
   },
   {
     "name": "logseq-go-home-now",
@@ -1520,8 +1520,8 @@
     "repo": "sawhney17/logseq-go-now",
     "version": "",
     "dir": "logseq-go-home-now",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-06-09T04:27:14Z",
+    "last_updated": "2022-07-05T17:19:27Z"
   },
   {
     "name": "logseq-go-to-bottom",
@@ -1531,8 +1531,8 @@
     "repo": "hlc1209/logseq-go-to-bottom",
     "version": "",
     "dir": "logseq-go-to-bottom",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-03-06T09:21:04Z",
+    "last_updated": "2025-03-06T09:21:04Z"
   },
   {
     "name": "logseq-google-fonts",
@@ -1542,8 +1542,8 @@
     "repo": "vipzhicheng/logseq-plugin-google-fonts",
     "version": "",
     "dir": "logseq-google-fonts",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-07-04T04:59:48Z",
+    "last_updated": "2022-07-19T05:28:27Z"
   },
   {
     "name": "logseq-google-tasks",
@@ -1553,8 +1553,8 @@
     "repo": "weynhamz/logseq-google-tasks",
     "version": "",
     "dir": "logseq-google-tasks",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-05-06T12:09:55Z",
+    "last_updated": "2024-05-06T12:09:55Z"
   },
   {
     "name": "logseq-grammarly",
@@ -1564,8 +1564,8 @@
     "repo": "xflash96/logseq-grammarly",
     "version": "",
     "dir": "logseq-grammarly",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-01-01T07:19:58Z",
+    "last_updated": "2023-01-02T06:49:15Z"
   },
   {
     "name": "Logseq Graph Analysis",
@@ -1575,8 +1575,8 @@
     "repo": "trashhalo/logseq-graph-analysis",
     "version": "",
     "dir": "logseq-graph-analysis",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-06-27T09:54:39Z",
+    "last_updated": "2023-11-04T18:36:35Z"
   },
   {
     "name": "logseq-gunmetal-theme",
@@ -1586,8 +1586,8 @@
     "repo": "blueteafrog/logseq-gunmetal-theme",
     "version": "",
     "dir": "logseq-gunmetal-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-01-17T05:28:05Z",
+    "last_updated": "2022-01-17T13:27:08Z"
   },
   {
     "name": "logseq-habit-tracker",
@@ -1597,8 +1597,8 @@
     "repo": "c6p/logseq-habit-tracker",
     "version": "",
     "dir": "logseq-habit-tracker",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-09-14T17:02:13Z",
+    "last_updated": "2021-09-14T17:02:13Z"
   },
   {
     "name": "logseq-habitica-tasks",
@@ -1608,8 +1608,8 @@
     "repo": "caffbit/logseq-plugin-habitica",
     "version": "",
     "dir": "logseq-habitica-tasks",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-06-17T12:18:33Z",
+    "last_updated": "2025-06-18T08:31:46Z"
   },
   {
     "name": "logseq-hamsterbase",
@@ -1619,8 +1619,8 @@
     "repo": "hamsterbase/logseq-hamsterbase",
     "version": "",
     "dir": "logseq-hamsterbase",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-02-06T14:25:03Z",
+    "last_updated": "2023-02-06T14:25:03Z"
   },
   {
     "name": "logseq-heatmap",
@@ -1630,8 +1630,8 @@
     "repo": "pengx17/logseq-plugin-heatmap",
     "version": "",
     "dir": "logseq-heatmap",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-09-08T15:59:07Z",
+    "last_updated": "2021-09-10T02:56:38Z"
   },
   {
     "name": "logseq-helium-plugin",
@@ -1641,8 +1641,8 @@
     "repo": "vyleung/logseq-helium-plugin",
     "version": "",
     "dir": "logseq-helium-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-04-24T06:18:11Z",
+    "last_updated": "2022-04-24T13:42:35Z"
   },
   {
     "name": "logseq-hide-everything-plugin",
@@ -1652,8 +1652,8 @@
     "repo": "ahonn/logseq-plugin-hide-everything",
     "version": "",
     "dir": "logseq-hide-everything-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-06-09T14:06:24Z",
+    "last_updated": "2023-06-09T14:06:24Z"
   },
   {
     "name": "logseq-hierarchy-jump",
@@ -1663,8 +1663,8 @@
     "repo": "sethyuan/logseq-plugin-hierarchy-jump",
     "version": "",
     "dir": "logseq-hierarchy-jump",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-08-28T06:48:57Z",
+    "last_updated": "2023-08-28T06:48:57Z"
   },
   {
     "name": "logseq-hypothesis",
@@ -1674,8 +1674,8 @@
     "repo": "c6p/logseq-hypothesis",
     "version": "",
     "dir": "logseq-hypothesis",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-09-14T17:02:13Z",
+    "last_updated": "2021-09-14T17:02:13Z"
   },
   {
     "name": "logseq-image-auto-resizer",
@@ -1685,8 +1685,8 @@
     "repo": "yutaodou/logseq-image-auto-resizer",
     "version": "",
     "dir": "logseq-image-auto-resizer",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-07-15T13:03:55Z",
+    "last_updated": "2023-07-15T13:03:55Z"
   },
   {
     "name": "logseq-image-editor",
@@ -1696,8 +1696,8 @@
     "repo": "b-yp/logseq-image-editor",
     "version": "",
     "dir": "logseq-image-editor",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-08-02T17:09:00Z",
+    "last_updated": "2023-08-02T17:09:00Z"
   },
   {
     "name": "logseq-image-tiny",
@@ -1707,8 +1707,8 @@
     "repo": "0604hx/logseq-plugin-image-tiny",
     "version": "",
     "dir": "logseq-image-tiny",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-07-06T17:13:16Z",
+    "last_updated": "2025-07-06T17:13:16Z"
   },
   {
     "name": "logseq-image-uploader",
@@ -1718,8 +1718,8 @@
     "repo": "JJAYCHEN1e/logseq-plugin-image-uploader",
     "version": "",
     "dir": "logseq-image-uploader",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-01-05T08:54:54Z",
+    "last_updated": "2022-08-10T12:05:59Z"
   },
   {
     "name": "logseq-imgur-upload",
@@ -1729,8 +1729,8 @@
     "repo": "hserranome/logseq-imgur-upload",
     "version": "",
     "dir": "logseq-imgur-upload",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-11-15T15:32:46Z",
+    "last_updated": "2021-11-15T15:32:46Z"
   },
   {
     "name": "logseq-immersion-theme",
@@ -1740,8 +1740,8 @@
     "repo": "denyskorolkov/logseq-immersion-theme",
     "version": "",
     "dir": "logseq-immersion-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-05-09T16:11:54Z",
+    "last_updated": "2022-05-09T16:11:54Z"
   },
   {
     "name": "logseq-inbox-telegram-plugin",
@@ -1751,8 +1751,8 @@
     "repo": "shady2k/logseq-inbox-telegram-plugin",
     "version": "",
     "dir": "logseq-inbox-telegram-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-01-21T06:35:24Z",
+    "last_updated": "2022-01-21T06:35:24Z"
   },
   {
     "name": "logseq-insert-movie-properties",
@@ -1762,8 +1762,8 @@
     "repo": "b-yp/logseq-insert-movie-properties",
     "version": "",
     "dir": "logseq-insert-movie-properties",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-06-29T15:01:46Z",
+    "last_updated": "2023-06-29T15:01:46Z"
   },
   {
     "name": "logseq-insert-random-pages",
@@ -1773,8 +1773,8 @@
     "repo": "wonyoung-jang/logseq-insert-random-pages",
     "version": "",
     "dir": "logseq-insert-random-pages",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-03-17T21:51:53Z",
+    "last_updated": "2025-03-17T21:51:53Z"
   },
   {
     "name": "logseq-integrate-any-api",
@@ -1784,8 +1784,8 @@
     "repo": "eefahd/logseq-integrate-any-api",
     "version": "",
     "dir": "logseq-integrate-any-api",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-09-08T10:55:04Z",
+    "last_updated": "2024-09-08T10:55:04Z"
   },
   {
     "name": "logseq-interstitial",
@@ -1795,8 +1795,8 @@
     "repo": "Mikilio/logseq-interstitial-heading-plugin",
     "version": "",
     "dir": "logseq-interstitial",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-04-02T23:04:18Z",
+    "last_updated": "2025-01-27T13:06:00Z"
   },
   {
     "name": "logseq-interval-hints",
@@ -1806,8 +1806,8 @@
     "repo": "kerfufflev2/logseq-plugin-interval-hints",
     "version": "",
     "dir": "logseq-interval-hints",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-06-03T19:30:38Z",
+    "last_updated": "2022-06-04T03:33:03Z"
   },
   {
     "name": "logseq-jalali",
@@ -1817,8 +1817,8 @@
     "repo": "ahangarha/logseq-jalali",
     "version": "",
     "dir": "logseq-jalali",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-06-09T17:23:31Z",
+    "last_updated": "2024-06-09T17:23:31Z"
   },
   {
     "name": "logseq-jira",
@@ -1828,8 +1828,8 @@
     "repo": "adyscorpius/logseq-jira",
     "version": "",
     "dir": "logseq-jira",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-11-14T00:21:58Z",
+    "last_updated": "2022-11-14T05:32:27Z"
   },
   {
     "name": "logseq-journal-auto-copier",
@@ -1839,8 +1839,8 @@
     "repo": "alecdibble/logseq-journal-auto-copier",
     "version": "",
     "dir": "logseq-journal-auto-copier",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-12-06T17:24:44Z",
+    "last_updated": "2022-12-06T17:24:44Z"
   },
   {
     "name": "logseq-journals-calendar",
@@ -1850,8 +1850,8 @@
     "repo": "xyhp915/logseq-journals-calendar",
     "version": "",
     "dir": "logseq-journals-calendar",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-09-06T12:08:18Z",
+    "last_updated": "2022-01-04T03:31:36Z"
   },
   {
     "name": "logseq-journals-nextprev",
@@ -1861,8 +1861,8 @@
     "repo": "isosphere/logseq-journals-nextprev",
     "version": "",
     "dir": "logseq-journals-nextprev",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-01-03T02:06:03Z",
+    "last_updated": "2024-01-03T13:34:36Z"
   },
   {
     "name": "logseq-kanban-board",
@@ -1872,8 +1872,8 @@
     "repo": "sethyuan/logseq-plugin-kanban-board",
     "version": "",
     "dir": "logseq-kanban-board",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-03-12T07:01:37Z",
+    "last_updated": "2023-05-29T02:34:46Z"
   },
   {
     "name": "logseq-kanban-plugin",
@@ -1883,8 +1883,8 @@
     "repo": "hkgnp/logseq-kanban-plugin",
     "version": "",
     "dir": "logseq-kanban-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-12-10T17:39:28Z",
+    "last_updated": "2024-07-09T23:50:55Z"
   },
   {
     "name": "logseq-keywordfrequency-plugin",
@@ -1894,8 +1894,8 @@
     "repo": "hkgnp/logseq-keywordfrequency-plugin",
     "version": "",
     "dir": "logseq-keywordfrequency-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-01-05T13:33:31Z",
+    "last_updated": "2022-02-06T03:04:26Z"
   },
   {
     "name": "logseq-kindle-import",
@@ -1905,8 +1905,8 @@
     "repo": "nicdun/logseq-kindle-import",
     "version": "",
     "dir": "logseq-kindle-import",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-01-19T08:04:40Z",
+    "last_updated": "2023-01-19T08:04:40Z"
   },
   {
     "name": "logseq-koreader-sync",
@@ -1916,8 +1916,8 @@
     "repo": "isosphere/logseq-koreader-sync",
     "version": "",
     "dir": "logseq-koreader-sync",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-02-12T01:27:05Z",
+    "last_updated": "2024-02-12T02:36:10Z"
   },
   {
     "name": "logseq-laurel-theme",
@@ -1927,8 +1927,8 @@
     "repo": "pengx17/logseq-laurel-theme",
     "version": "",
     "dir": "logseq-laurel-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-09-26T03:15:23Z",
+    "last_updated": "2021-09-26T08:28:39Z"
   },
   {
     "name": "logseq-lilypond",
@@ -1938,8 +1938,8 @@
     "repo": "dot-asterisk-nl/logseq-lilypond",
     "version": "",
     "dir": "logseq-lilypond",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-03-01T21:19:09Z",
+    "last_updated": "2023-03-01T21:21:51Z"
   },
   {
     "name": "logseq-link-preview",
@@ -1949,8 +1949,8 @@
     "repo": "pengx17/logseq-plugin-link-preview",
     "version": "",
     "dir": "logseq-link-preview",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-09-08T15:59:07Z",
+    "last_updated": "2021-11-29T03:22:54Z"
   },
   {
     "name": "logseq-link-to-local",
@@ -1960,8 +1960,8 @@
     "repo": "b-yp/logseq-link-to-local",
     "version": "",
     "dir": "logseq-link-to-local",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-06-16T19:27:02Z",
+    "last_updated": "2023-06-21T03:04:25Z"
   },
   {
     "name": "logseq-link-unlinked",
@@ -1971,8 +1971,8 @@
     "repo": "usoonees/logseq-plugin-link-unlink",
     "version": "",
     "dir": "logseq-link-unlinked",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-10-30T16:50:32Z",
+    "last_updated": "2022-11-01T05:00:07Z"
   },
   {
     "name": "logseq-linker",
@@ -1982,8 +1982,8 @@
     "repo": "sethyuan/logseq-plugin-linker",
     "version": "",
     "dir": "logseq-linker",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-10-27T02:53:52Z",
+    "last_updated": "2023-10-27T02:53:52Z"
   },
   {
     "name": "logseq-linkwarden",
@@ -1993,8 +1993,8 @@
     "repo": "Layxe/Logseq-Linkwarden",
     "version": "",
     "dir": "logseq-linkwarden",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-02-17T18:43:00Z",
+    "last_updated": "2025-04-29T08:54:55Z"
   },
   {
     "name": "logseq-live-math",
@@ -2004,8 +2004,8 @@
     "repo": "AllanChain/logseq-live-math",
     "version": "",
     "dir": "logseq-live-math",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-08-22T14:04:15Z",
+    "last_updated": "2023-08-23T03:03:05Z"
   },
   {
     "name": "logseq-local-telegram-bot",
@@ -2015,8 +2015,8 @@
     "repo": "LelouchHe/logseq-local-telegram-bot",
     "version": "",
     "dir": "logseq-local-telegram-bot",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-02-13T08:24:29Z",
+    "last_updated": "2023-02-13T08:24:29Z"
   },
   {
     "name": "logseq-localassets-plugin",
@@ -2026,8 +2026,8 @@
     "repo": "hkgnp/logseq-localassets-plugin",
     "version": "",
     "dir": "logseq-localassets-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-01-01T13:36:05Z",
+    "last_updated": "2023-03-30T11:20:42Z"
   },
   {
     "name": "logseq-lock-screen",
@@ -2037,8 +2037,8 @@
     "repo": "vipzhicheng/logseq-plugin-lock-screen",
     "version": "",
     "dir": "logseq-lock-screen",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-01-27T12:29:25Z",
+    "last_updated": "2022-04-08T03:23:05Z"
   },
   {
     "name": "logseq-lock",
@@ -2048,8 +2048,8 @@
     "repo": "vipzhicheng/logseq-plugin-lock",
     "version": "",
     "dir": "logseq-lock",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-11-17T03:26:20Z",
+    "last_updated": "2022-04-08T03:23:05Z"
   },
   {
     "name": "logseq-logarxivmate-plugin",
@@ -2059,8 +2059,8 @@
     "repo": "SSamDav/logseq-logarxivmate-plugin",
     "version": "",
     "dir": "logseq-logarxivmate-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-05-27T21:06:49Z",
+    "last_updated": "2024-05-30T02:32:18Z"
   },
   {
     "name": "logseq-long-form",
@@ -2070,8 +2070,8 @@
     "repo": "sethyuan/logseq-long-form",
     "version": "",
     "dir": "logseq-long-form",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-12-12T02:49:55Z",
+    "last_updated": "2023-12-12T02:49:55Z"
   },
   {
     "name": "logseq-luckysheet",
@@ -2081,8 +2081,8 @@
     "repo": "sethyuan/logseq-plugin-luckysheet",
     "version": "",
     "dir": "logseq-luckysheet",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-03-12T03:20:56Z",
+    "last_updated": "2023-05-29T02:34:46Z"
   },
   {
     "name": "logseq-luma",
@@ -2092,8 +2092,8 @@
     "repo": "gavinmn/logseq-luma",
     "version": "",
     "dir": "logseq-luma",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-07-28T01:38:32Z",
+    "last_updated": "2022-07-28T01:38:32Z"
   },
   {
     "name": "logseq-lumalee",
@@ -2103,8 +2103,8 @@
     "repo": "kay-ki/Lumalee-Logseq-Theme",
     "version": "",
     "dir": "logseq-lumalee",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-09-21T13:20:40Z",
+    "last_updated": "2025-05-16T17:05:10Z"
   },
   {
     "name": "logseq-macosbooks-copy-without-citation",
@@ -2114,8 +2114,8 @@
     "repo": "enchantmenttable/logseq-macosbooks-copy-without-citation",
     "version": "",
     "dir": "logseq-macosbooks-copy-without-citation",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-11-23T06:16:50Z",
+    "last_updated": "2022-11-23T06:18:39Z"
   },
   {
     "name": "logseq-magic-todo",
@@ -2125,8 +2125,8 @@
     "repo": "b-yp/logseq-magic-todo",
     "version": "",
     "dir": "logseq-magic-todo",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-08-05T17:45:30Z",
+    "last_updated": "2024-08-05T17:45:30Z"
   },
   {
     "name": "logseq-mark-map",
@@ -2136,8 +2136,8 @@
     "repo": "vipzhicheng/logseq-plugin-mark-map",
     "version": "",
     "dir": "logseq-mark-map",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-09-03T10:20:01Z",
+    "last_updated": "2022-04-08T03:23:05Z"
   },
   {
     "name": "logseq-markdown-table",
@@ -2147,8 +2147,8 @@
     "repo": "haydenull/logseq-plugin-markdown-table",
     "version": "",
     "dir": "logseq-markdown-table",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-10-22T10:08:35Z",
+    "last_updated": "2022-01-17T08:30:10Z"
   },
   {
     "name": "logseq-marks",
@@ -2158,8 +2158,8 @@
     "repo": "Dieterbe/logseq-plugin-marks",
     "version": "",
     "dir": "logseq-marks",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-10-10T19:24:37Z",
+    "last_updated": "2022-10-10T19:24:37Z"
   },
   {
     "name": "logseq-math-editor",
@@ -2169,8 +2169,8 @@
     "repo": "sethyuan/logseq-plugin-math-editor",
     "version": "",
     "dir": "logseq-math-editor",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-12-19T08:39:32Z",
+    "last_updated": "2023-12-19T08:39:32Z"
   },
   {
     "name": "logseq-matrix-amoled-theme",
@@ -2180,8 +2180,8 @@
     "repo": "KonTy/logseq-matrix-amoled",
     "version": "",
     "dir": "logseq-matrix-amoled-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-06-03T05:12:12Z",
+    "last_updated": "2024-06-03T15:35:16Z"
   },
   {
     "name": "logseq-matter",
@@ -2191,8 +2191,8 @@
     "repo": "getmatterapp/logseq-matter",
     "version": "",
     "dir": "logseq-matter",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-10-28T21:12:22Z",
+    "last_updated": "2022-10-28T21:12:22Z"
   },
   {
     "name": "logseq-media-controls",
@@ -2202,8 +2202,8 @@
     "repo": "stefanbuck/logseq-media-controls",
     "version": "",
     "dir": "logseq-media-controls",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-04-22T22:36:49Z",
+    "last_updated": "2022-04-22T22:36:49Z"
   },
   {
     "name": "logseq-media-ts",
@@ -2213,8 +2213,8 @@
     "repo": "sethyuan/logseq-plugin-media-ts",
     "version": "",
     "dir": "logseq-media-ts",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-03-02T08:50:56Z",
+    "last_updated": "2023-05-29T02:34:46Z"
   },
   {
     "name": "logseq-media",
@@ -2224,8 +2224,8 @@
     "repo": "CorrectRoadH/logseq-metadata",
     "version": "",
     "dir": "logseq-media",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-08-30T03:26:31Z",
+    "last_updated": "2024-09-05T04:12:32Z"
   },
   {
     "name": "logseq-memos-sync",
@@ -2235,8 +2235,8 @@
     "repo": "EINDEX/logseq-memos-sync",
     "version": "",
     "dir": "logseq-memos-sync",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-12-01T07:22:07Z",
+    "last_updated": "2022-12-01T07:22:07Z"
   },
   {
     "name": "logseq-merge-nested-blocks-into-one",
@@ -2246,8 +2246,8 @@
     "repo": "georgeguimaraes/logseq-plugin-merge-nested-blocks-into-one",
     "version": "",
     "dir": "logseq-merge-nested-blocks-into-one",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-09-08T20:34:50Z",
+    "last_updated": "2023-10-31T21:30:20Z"
   },
   {
     "name": "logseq-mergepages-plugin",
@@ -2257,8 +2257,8 @@
     "repo": "hkgnp/logseq-mergepages-plugin",
     "version": "",
     "dir": "logseq-mergepages-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-12-19T12:19:13Z",
+    "last_updated": "2022-02-06T03:04:26Z"
   },
   {
     "name": "logseq-mermaid-plugin",
@@ -2268,8 +2268,8 @@
     "repo": "benjypng/logseq-mermaid-plugin",
     "version": "",
     "dir": "logseq-mermaid-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-02-13T03:06:46Z",
+    "last_updated": "2024-08-05T17:05:16Z"
   },
   {
     "name": "logseq-metrics",
@@ -2279,8 +2279,8 @@
     "repo": "dangermccann/logseq-metrics",
     "version": "",
     "dir": "logseq-metrics",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-11-13T18:55:24Z",
+    "last_updated": "2022-11-14T23:32:25Z"
   },
   {
     "name": "logseq-mhtml-viewer",
@@ -2290,8 +2290,8 @@
     "repo": "lee88688/logseq-mhtml-view-plugin",
     "version": "",
     "dir": "logseq-mhtml-viewer",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-09-07T16:18:16Z",
+    "last_updated": "2023-09-07T16:18:16Z"
   },
   {
     "name": "logseq-mia-theme",
@@ -2301,8 +2301,8 @@
     "repo": "playerofgames/logseq-mia-theme",
     "version": "",
     "dir": "logseq-mia-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-03-21T12:57:07Z",
+    "last_updated": "2022-03-21T12:57:07Z"
   },
   {
     "name": "logseq-milestone",
@@ -2312,8 +2312,8 @@
     "repo": "haydenull/logseq-plugin-milestone",
     "version": "",
     "dir": "logseq-milestone",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-01-17T08:30:10Z",
+    "last_updated": "2022-01-17T08:30:10Z"
   },
   {
     "name": "logseq-milestones-pro",
@@ -2323,8 +2323,8 @@
     "repo": "duiliuliu/logseq-plugin-milestone-1",
     "version": "",
     "dir": "logseq-milestones-pro",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-10-11T14:37:45Z",
+    "last_updated": "2024-10-11T14:37:45Z"
   },
   {
     "name": "logseq-mind-map",
@@ -2334,8 +2334,8 @@
     "repo": "b-yp/logseq-mind-map",
     "version": "",
     "dir": "logseq-mind-map",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-10-11T16:07:07Z",
+    "last_updated": "2024-10-11T16:07:07Z"
   },
   {
     "name": "logseq-mind-mapping-plus",
@@ -2345,8 +2345,8 @@
     "repo": "ZhuXiaolingPig/logseq-mind-mapping-plus",
     "version": "",
     "dir": "logseq-mind-mapping-plus",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-01-17T02:20:12Z",
+    "last_updated": "2025-01-17T02:20:12Z"
   },
   {
     "name": "logseq-mocha-theme",
@@ -2356,8 +2356,8 @@
     "repo": "blueteafrog/logseq-mocha-theme",
     "version": "",
     "dir": "logseq-mocha-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-01-01T21:57:51Z",
+    "last_updated": "2022-01-10T02:33:26Z"
   },
   {
     "name": "logseq-mochi-sync",
@@ -2367,8 +2367,8 @@
     "repo": "benwr/logseq-mochi-sync",
     "version": "",
     "dir": "logseq-mochi-sync",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-03-03T21:37:59Z",
+    "last_updated": "2025-03-03T21:37:59Z"
   },
   {
     "name": "logseq-monokai",
@@ -2378,8 +2378,8 @@
     "repo": "tzcl/logseq-monokai",
     "version": "",
     "dir": "logseq-monokai",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-02-11T10:43:13Z",
+    "last_updated": "2023-02-11T10:43:13Z"
   },
   {
     "name": "logseq-move-block",
@@ -2389,8 +2389,8 @@
     "repo": "vipzhicheng/logseq-plugin-move-block",
     "version": "",
     "dir": "logseq-move-block",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-04-08T03:23:05Z",
+    "last_updated": "2022-04-12T05:10:57Z"
   },
   {
     "name": "logseq-movies",
@@ -2400,8 +2400,8 @@
     "repo": "darthorimar/logseq-movies-plugin",
     "version": "",
     "dir": "logseq-movies",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-07-30T20:48:17Z",
+    "last_updated": "2022-07-31T01:59:55Z"
   },
   {
     "name": "logseq-music-notation",
@@ -2411,8 +2411,8 @@
     "repo": "benjaffe/logseq-music-notation",
     "version": "",
     "dir": "logseq-music-notation",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-02-21T21:07:25Z",
+    "last_updated": "2022-02-21T22:27:30Z"
   },
   {
     "name": "logseq-my-highlights",
@@ -2422,8 +2422,8 @@
     "repo": "theBenForce/logseq-plugin-my-highlights",
     "version": "",
     "dir": "logseq-my-highlights",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-03-01T14:58:08Z",
+    "last_updated": "2023-03-27T11:23:37Z"
   },
   {
     "name": "logseq-neon-theme",
@@ -2433,8 +2433,8 @@
     "repo": "solariz/logseq-neon-theme",
     "version": "",
     "dir": "logseq-neon-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-04-21T14:24:40Z",
+    "last_updated": "2022-12-31T10:47:56Z"
   },
   {
     "name": "logseq-nostr-sync",
@@ -2444,8 +2444,8 @@
     "repo": "KoalaSat/logseq-nostr-sync",
     "version": "",
     "dir": "logseq-nostr-sync",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-11-19T15:30:16Z",
+    "last_updated": "2023-11-19T15:30:16Z"
   },
   {
     "name": "logseq-notion-sync",
@@ -2455,8 +2455,8 @@
     "repo": "b-yp/logseq-notion-sync",
     "version": "",
     "dir": "logseq-notion-sync",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-05-20T12:56:03Z",
+    "last_updated": "2023-06-21T03:04:25Z"
   },
   {
     "name": "logseq-ocr",
@@ -2466,8 +2466,8 @@
     "repo": "xxchan/logseq-ocr",
     "version": "",
     "dir": "logseq-ocr",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-04-30T16:48:17Z",
+    "last_updated": "2023-05-01T01:30:46Z"
   },
   {
     "name": "logseq-ol",
@@ -2477,8 +2477,8 @@
     "repo": "sethyuan/logseq-plugin-ol",
     "version": "",
     "dir": "logseq-ol",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-03-08T02:02:44Z",
+    "last_updated": "2023-05-29T02:34:46Z"
   },
   {
     "name": "logseq-on-this-day",
@@ -2488,8 +2488,8 @@
     "repo": "imrickysu/logseq-plugin-on-this-day",
     "version": "",
     "dir": "logseq-on-this-day",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-01-27T15:36:28Z",
+    "last_updated": "2023-01-27T15:36:28Z"
   },
   {
     "name": "logseq-one-theme",
@@ -2499,8 +2499,8 @@
     "repo": "femto-code/logseq-one-theme",
     "version": "",
     "dir": "logseq-one-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-12-19T15:53:18Z",
+    "last_updated": "2023-12-19T15:53:18Z"
   },
   {
     "name": "logseq-open-in-code",
@@ -2510,8 +2510,8 @@
     "repo": "rebornix/logseq-open-in-code",
     "version": "",
     "dir": "logseq-open-in-code",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-04-28T18:33:59Z",
+    "last_updated": "2022-04-29T01:49:24Z"
   },
   {
     "name": "logseq-open-in-emacs",
@@ -2521,8 +2521,8 @@
     "repo": "ksqsf/logseq-open-in-emacs",
     "version": "",
     "dir": "logseq-open-in-emacs",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-12-17T09:43:18Z",
+    "last_updated": "2022-12-19T03:19:14Z"
   },
   {
     "name": "logseq-open-in-external-app",
@@ -2532,8 +2532,8 @@
     "repo": "haydenull/logseq-plugin-open-in-external-app",
     "version": "",
     "dir": "logseq-open-in-external-app",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-03-08T09:53:22Z",
+    "last_updated": "2022-03-08T09:53:22Z"
   },
   {
     "name": "logseq-open-in-vs-code",
@@ -2543,8 +2543,8 @@
     "repo": "ThinkSalat/logseq-open-in-code",
     "version": "",
     "dir": "logseq-open-in-vs-code",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-07-08T14:06:10Z",
+    "last_updated": "2023-07-08T14:06:10Z"
   },
   {
     "name": "logseq-opml-drummer",
@@ -2554,8 +2554,8 @@
     "repo": "phonetonote/tft-interop",
     "version": "",
     "dir": "logseq-opml-drummer",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-05-03T00:38:09Z",
+    "last_updated": "2022-05-03T22:42:42Z"
   },
   {
     "name": "logseq-osmmaps-plugin",
@@ -2565,8 +2565,8 @@
     "repo": "hkgnp/logseq-osmmaps-plugin",
     "version": "",
     "dir": "logseq-osmmaps-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-01-17T00:26:08Z",
+    "last_updated": "2022-02-06T03:04:26Z"
   },
   {
     "name": "logseq-oxford-blue-theme",
@@ -2576,8 +2576,8 @@
     "repo": "blueteafrog/logseq-oxfordblue-theme",
     "version": "",
     "dir": "logseq-oxford-blue-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-12-27T09:37:34Z",
+    "last_updated": "2022-01-10T02:33:26Z"
   },
   {
     "name": "logseq-ozean-theme",
@@ -2587,8 +2587,8 @@
     "repo": "hisea/logseq-ozean-theme",
     "version": "",
     "dir": "logseq-ozean-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-05-28T21:34:18Z",
+    "last_updated": "2022-05-28T21:34:18Z"
   },
   {
     "name": "logseq-page-breadcrumb",
@@ -2598,8 +2598,8 @@
     "repo": "b-yp/logseq-page-breadcrumb",
     "version": "",
     "dir": "logseq-page-breadcrumb",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-08-26T13:05:17Z",
+    "last_updated": "2024-08-26T13:05:17Z"
   },
   {
     "name": "logseq-page-tags-and-hierarchy",
@@ -2609,8 +2609,8 @@
     "repo": "YU000jp/logseq-page-tags-and-hierarchy",
     "version": "",
     "dir": "logseq-page-tags-and-hierarchy",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-10-10T05:29:25Z",
+    "last_updated": "2023-11-12T05:13:29Z"
   },
   {
     "name": "logseq-pandoc-plugin",
@@ -2620,8 +2620,8 @@
     "repo": "benjypng/logseq-pandoc-plugin",
     "version": "",
     "dir": "logseq-pandoc-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-08-24T12:35:37Z",
+    "last_updated": "2024-08-24T12:35:37Z"
   },
   {
     "name": "logseq-pangu",
@@ -2631,8 +2631,8 @@
     "repo": "b-yp/logseq-pangu",
     "version": "",
     "dir": "logseq-pangu",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-11-05T11:23:34Z",
+    "last_updated": "2023-11-05T11:32:42Z"
   },
   {
     "name": "logseq-panic-theme",
@@ -2642,8 +2642,8 @@
     "repo": "kirso/logseq-panic-theme",
     "version": "",
     "dir": "logseq-panic-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-12-18T10:23:30Z",
+    "last_updated": "2022-10-11T06:24:54Z"
   },
   {
     "name": "logseq-paper-theme",
@@ -2653,8 +2653,8 @@
     "repo": "wirtzdan/logseq-paper-theme",
     "version": "",
     "dir": "logseq-paper-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-10-23T19:49:48Z",
+    "last_updated": "2022-04-27T08:24:53Z"
   },
   {
     "name": "logseq-parsecsv-plugin",
@@ -2664,8 +2664,8 @@
     "repo": "hkgnp/logseq-parsecsv-plugin",
     "version": "",
     "dir": "logseq-parsecsv-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-03-04T12:00:35Z",
+    "last_updated": "2022-03-04T12:00:35Z"
   },
   {
     "name": "logseq-paste-more",
@@ -2675,8 +2675,8 @@
     "repo": "usoonees/logseq-plugin-paste-more",
     "version": "",
     "dir": "logseq-paste-more",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-05-07T17:05:31Z",
+    "last_updated": "2022-05-07T17:05:31Z"
   },
   {
     "name": "logseq-pdf-export-plugin",
@@ -2686,8 +2686,8 @@
     "repo": "sawhney17/logseq-pdf-export",
     "version": "",
     "dir": "logseq-pdf-export-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-03-23T05:10:52Z",
+    "last_updated": "2022-04-07T16:15:04Z"
   },
   {
     "name": "logseq-pdf-extract",
@@ -2697,8 +2697,8 @@
     "repo": "e-zz/logseq-pdf-extract",
     "version": "",
     "dir": "logseq-pdf-extract",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-12-18T02:55:29Z",
+    "last_updated": "2023-12-19T02:51:55Z"
   },
   {
     "name": "logseq-pdf-nav",
@@ -2708,8 +2708,8 @@
     "repo": "OverflowCat/logseq-pdf-nav",
     "version": "",
     "dir": "logseq-pdf-nav",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-01-17T22:04:33Z",
+    "last_updated": "2023-01-17T22:04:33Z"
   },
   {
     "name": "logseq-pdf-print",
@@ -2719,8 +2719,8 @@
     "repo": "supery-chen/logseq-plugin-pdf-print",
     "version": "",
     "dir": "logseq-pdf-print",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-05-07T07:46:36Z",
+    "last_updated": "2022-05-07T07:46:36Z"
   },
   {
     "name": "logseq-pen",
@@ -2730,8 +2730,8 @@
     "repo": "vipzhicheng/logseq-plugin-pen",
     "version": "",
     "dir": "logseq-pen",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-09-27T11:28:41Z",
+    "last_updated": "2022-09-27T11:28:41Z"
   },
   {
     "name": "logseq-phonetonote",
@@ -2741,8 +2741,8 @@
     "repo": "phonetonote/phonetonote-logseq",
     "version": "",
     "dir": "logseq-phonetonote",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-12-22T04:16:20Z",
+    "last_updated": "2022-06-02T02:40:33Z"
   },
   {
     "name": "logseq-pink-as-fox-theme",
@@ -2752,8 +2752,8 @@
     "repo": "avoonix/logseq-pink-as-fox-theme",
     "version": "",
     "dir": "logseq-pink-as-fox-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-02-16T20:54:07Z",
+    "last_updated": "2022-02-16T20:54:07Z"
   },
   {
     "name": "logseq-pinyin-match-tags",
@@ -2763,8 +2763,8 @@
     "repo": "b-yp/logseq-pinyin-match-tags",
     "version": "",
     "dir": "logseq-pinyin-match-tags",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-06-25T02:35:05Z",
+    "last_updated": "2023-06-25T02:35:05Z"
   },
   {
     "name": "logseq-plantuml-plugin",
@@ -2774,8 +2774,8 @@
     "repo": "cofcool/logseq-plantuml-plugin",
     "version": "",
     "dir": "logseq-plantuml-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-05-13T08:20:38Z",
+    "last_updated": "2022-05-13T08:20:38Z"
   },
   {
     "name": "logseq-plugin-ai-assistant",
@@ -2785,8 +2785,8 @@
     "repo": "ahonn/logseq-plugin-ai-assistant",
     "version": "",
     "dir": "logseq-plugin-ai-assistant",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-03-22T02:24:30Z",
+    "last_updated": "2023-03-22T03:47:58Z"
   },
   {
     "name": "logseq-plugin-areas",
@@ -2796,8 +2796,8 @@
     "repo": "bsongOT/logseq-plugin-areas",
     "version": "",
     "dir": "logseq-plugin-areas",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-09-25T11:10:09Z",
+    "last_updated": "2022-09-25T11:10:09Z"
   },
   {
     "name": "logseq-plugin-assistseq-ai-assistant",
@@ -2807,8 +2807,8 @@
     "repo": "galihlprakoso/logseq-plugin-assistseq-ai-assistant",
     "version": "",
     "dir": "logseq-plugin-assistseq-ai-assistant",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-08-20T03:29:56Z",
+    "last_updated": "2024-08-20T03:29:56Z"
   },
   {
     "name": "logseq-plugin-audiobookshelf-import",
@@ -2818,8 +2818,8 @@
     "repo": "Gandalf-the-Blue/logseq-plugin-audiobookshelf-import",
     "version": "",
     "dir": "logseq-plugin-audiobookshelf-import",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-01-14T20:53:50Z",
+    "last_updated": "2024-10-24T13:47:37Z"
   },
   {
     "name": "logseq-plugin-audiosnippet",
@@ -2829,8 +2829,8 @@
     "repo": "tinpotnick/logseq-audiosnippet-plugin",
     "version": "",
     "dir": "logseq-plugin-audiosnippet",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-03-18T07:27:47Z",
+    "last_updated": "2025-03-18T08:05:06Z"
   },
   {
     "name": "logseq-plugin-automatic-url-title",
@@ -2840,8 +2840,8 @@
     "repo": "0x7b1/logseq-plugin-automatic-url-title",
     "version": "",
     "dir": "logseq-plugin-automatic-url-title",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-07-10T09:27:17Z",
+    "last_updated": "2022-07-11T01:41:27Z"
   },
   {
     "name": "logseq-plugin-azure-openai",
@@ -2851,8 +2851,8 @@
     "repo": "haha1903/logseq-plugin-azure-openai",
     "version": "",
     "dir": "logseq-plugin-azure-openai",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-05-29T15:10:03Z",
+    "last_updated": "2025-06-01T10:07:33Z"
   },
   {
     "name": "logseq-plugin-better-tasks",
@@ -2862,8 +2862,8 @@
     "repo": "dsarman/logseq-plugin-better-tasks",
     "version": "",
     "dir": "logseq-plugin-better-tasks",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-07-02T13:47:57Z",
+    "last_updated": "2023-07-02T13:47:57Z"
   },
   {
     "name": "logseq-plugin-blank-line",
@@ -2873,8 +2873,8 @@
     "repo": "YU000jp/logseq-plugin-blank-line",
     "version": "",
     "dir": "logseq-plugin-blank-line",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-08-05T12:11:18Z",
+    "last_updated": "2024-02-10T22:00:52Z"
   },
   {
     "name": "logseq-plugin-block-transformer",
@@ -2884,8 +2884,8 @@
     "repo": "JuniverseCoder/logseq-plugin-block-transformer",
     "version": "",
     "dir": "logseq-plugin-block-transformer",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-09-23T13:03:34Z",
+    "last_updated": "2023-09-23T13:03:34Z"
   },
   {
     "name": "logseq-plugin-bullet-point-custom-icon",
@@ -2895,8 +2895,8 @@
     "repo": "YU000jp/logseq-plugin-bullet-point-custom-icon",
     "version": "",
     "dir": "logseq-plugin-bullet-point-custom-icon",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-10-14T14:35:44Z",
+    "last_updated": "2023-10-14T23:15:41Z"
   },
   {
     "name": "logseq-plugin-bullet-point-style",
@@ -2906,8 +2906,8 @@
     "repo": "YU000jp/logseq-plugin-bullet-point-style",
     "version": "",
     "dir": "logseq-plugin-bullet-point-style",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-06-25T02:40:49Z",
+    "last_updated": "2023-06-25T02:40:49Z"
   },
   {
     "name": "logseq-plugin-colored-threads",
@@ -2917,8 +2917,8 @@
     "repo": "PatrickDeVries/logseq-plugin-colored-threads",
     "version": "",
     "dir": "logseq-plugin-colored-threads",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-11-15T06:00:24Z",
+    "last_updated": "2023-11-15T06:00:24Z"
   },
   {
     "name": "logseq-plugin-confirmation-done-task",
@@ -2928,8 +2928,8 @@
     "repo": "YU000jp/logseq-plugin-confirmation-done-task",
     "version": "",
     "dir": "logseq-plugin-confirmation-done-task",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-06-10T13:51:59Z",
+    "last_updated": "2023-11-12T04:16:17Z"
   },
   {
     "name": "logseq-plugin-confirmation-hyperlink",
@@ -2939,8 +2939,8 @@
     "repo": "YU000jp/logseq-plugin-confirmation-hyperlink",
     "version": "",
     "dir": "logseq-plugin-confirmation-hyperlink",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-06-10T13:54:20Z",
+    "last_updated": "2023-11-12T04:20:31Z"
   },
   {
     "name": "logseq-plugin-copilot",
@@ -2950,8 +2950,8 @@
     "repo": "chhabrakadabra/logseq-plugin-copilot",
     "version": "",
     "dir": "logseq-plugin-copilot",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-01-10T22:46:37Z",
+    "last_updated": "2025-01-21T17:38:32Z"
   },
   {
     "name": "logseq-plugin-copy-page-properties",
@@ -2961,8 +2961,8 @@
     "repo": "gso/logseq-plugin-copy-page-properties",
     "version": "",
     "dir": "logseq-plugin-copy-page-properties",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-11-09T22:37:32Z",
+    "last_updated": "2023-11-11T04:55:15Z"
   },
   {
     "name": "logseq-plugin-daily-todo",
@@ -2972,8 +2972,8 @@
     "repo": "ehudhala/logseq-plugin-daily-todo",
     "version": "",
     "dir": "logseq-plugin-daily-todo",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-11-30T10:50:57Z",
+    "last_updated": "2022-11-30T10:50:57Z"
   },
   {
     "name": "logseq-plugin-default-template",
@@ -2983,8 +2983,8 @@
     "repo": "YU000jp/logseq-plugin-default-template",
     "version": "",
     "dir": "logseq-plugin-default-template",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-06-22T08:50:41Z",
+    "last_updated": "2024-07-12T07:48:28Z"
   },
   {
     "name": "logseq-plugin-discogs",
@@ -2994,8 +2994,8 @@
     "repo": "axelav/logseq-plugin-discogs",
     "version": "",
     "dir": "logseq-plugin-discogs",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-11-23T20:48:24Z",
+    "last_updated": "2022-11-24T02:51:19Z"
   },
   {
     "name": "logseq-plugin-draft-notes",
@@ -3005,8 +3005,8 @@
     "repo": "YU000jp/logseq-plugin-draft-notes",
     "version": "",
     "dir": "logseq-plugin-draft-notes",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-01-01T14:08:26Z",
+    "last_updated": "2025-01-01T14:08:26Z"
   },
   {
     "name": "logseq-plugin-embed-vegalite",
@@ -3016,8 +3016,8 @@
     "repo": "oshikiri/logseq-plugin-embed-vegalite",
     "version": "",
     "dir": "logseq-plugin-embed-vegalite",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-12-11T14:41:57Z",
+    "last_updated": "2024-12-11T14:41:57Z"
   },
   {
     "name": "logseq-plugin-extra-editing-commands",
@@ -3027,8 +3027,8 @@
     "repo": "freder/logseq-plugin-extra-editing-commands",
     "version": "",
     "dir": "logseq-plugin-extra-editing-commands",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-04-26T16:27:57Z",
+    "last_updated": "2023-04-26T16:27:57Z"
   },
   {
     "name": "logseq-plugin-favorite-jump",
@@ -3038,8 +3038,8 @@
     "repo": "meain/logseq-plugin-favorite-jump",
     "version": "",
     "dir": "logseq-plugin-favorite-jump",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-06-29T03:33:59Z",
+    "last_updated": "2023-07-03T10:26:31Z"
   },
   {
     "name": "logseq-plugin-for-misskey",
@@ -3049,8 +3049,8 @@
     "repo": "minimarimo3/logseq-plugin-for-misskey",
     "version": "",
     "dir": "logseq-plugin-for-misskey",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-01-17T17:42:45Z",
+    "last_updated": "2024-02-09T06:58:43Z"
   },
   {
     "name": "logseq-plugin-github-get",
@@ -3060,8 +3060,8 @@
     "repo": "mandpd/logseq-plugin-github-get",
     "version": "",
     "dir": "logseq-plugin-github-get",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-04-03T02:13:16Z",
+    "last_updated": "2022-04-03T02:13:16Z"
   },
   {
     "name": "logseq-plugin-google-books",
@@ -3071,8 +3071,8 @@
     "repo": "YU000jp/logseq-plugin-google-books",
     "version": "",
     "dir": "logseq-plugin-google-books",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-06-02T11:39:15Z",
+    "last_updated": "2024-06-02T11:39:15Z"
   },
   {
     "name": "logseq-plugin-gpt3-openai",
@@ -3082,8 +3082,8 @@
     "repo": "briansunter/logseq-plugin-gpt3-openai",
     "version": "",
     "dir": "logseq-plugin-gpt3-openai",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-06-05T03:32:33Z",
+    "last_updated": "2022-06-06T02:26:16Z"
   },
   {
     "name": "logseq-plugin-harper",
@@ -3093,8 +3093,8 @@
     "repo": "theoreticallyjosh/logseq-plugin-harper",
     "version": "",
     "dir": "logseq-plugin-harper",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-05-06T22:16:26Z",
+    "last_updated": "2025-05-07T04:00:39Z"
   },
   {
     "name": "logseq-plugin-heading-level-shortcuts",
@@ -3104,8 +3104,8 @@
     "repo": "vipzhicheng/logseq-plugin-heading-level-shortcuts",
     "version": "",
     "dir": "logseq-plugin-heading-level-shortcuts",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-12-20T05:07:42Z",
+    "last_updated": "2022-04-08T03:23:05Z"
   },
   {
     "name": "logseq-plugin-hierarchy-tool",
@@ -3115,8 +3115,8 @@
     "repo": "YU000jp/logseq-plugin-hierarchy-tool",
     "version": "",
     "dir": "logseq-plugin-hierarchy-tool",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-08-11T13:47:25Z",
+    "last_updated": "2024-08-11T13:47:25Z"
   },
   {
     "name": "logseq-plugin-highlights-extractor",
@@ -3126,8 +3126,8 @@
     "repo": "renatocaliari/logseq-plugin-highlights-extractor",
     "version": "",
     "dir": "logseq-plugin-highlights-extractor",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-05-11T20:21:51Z",
+    "last_updated": "2022-05-11T20:24:19Z"
   },
   {
     "name": "logseq-plugin-jump-to-block",
@@ -3137,8 +3137,8 @@
     "repo": "freder/logseq-plugin-jump-to-block",
     "version": "",
     "dir": "logseq-plugin-jump-to-block",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-03-22T13:49:26Z",
+    "last_updated": "2023-03-25T12:37:21Z"
   },
   {
     "name": "logseq-plugin-leetcode",
@@ -3148,8 +3148,8 @@
     "repo": "alucpro/logseq-plugin-leetcode",
     "version": "",
     "dir": "logseq-plugin-leetcode",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-12-25T10:08:00Z",
+    "last_updated": "2022-12-25T10:08:00Z"
   },
   {
     "name": "logseq-plugin-left-sidebar-enhance",
@@ -3159,8 +3159,8 @@
     "repo": "YU000jp/logseq-plugin-left-sidebar-enhance",
     "version": "",
     "dir": "logseq-plugin-left-sidebar-enhance",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-10-01T08:14:11Z",
+    "last_updated": "2023-10-01T08:14:11Z"
   },
   {
     "name": "logseq-plugin-legacy-date-format copy",
@@ -3170,8 +3170,8 @@
     "repo": "YU000jp/logseq-plugin-flex-date-format",
     "version": "",
     "dir": "logseq-plugin-legacy-date-format copy",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-08-22T23:55:19Z",
+    "last_updated": "2023-11-12T05:47:27Z"
   },
   {
     "name": "logseq-plugin-legacy-date-format",
@@ -3181,8 +3181,8 @@
     "repo": "YU000jp/logseq-plugin-legacy-date-format",
     "version": "",
     "dir": "logseq-plugin-legacy-date-format",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-08-19T12:25:38Z",
+    "last_updated": "2023-11-12T05:47:27Z"
   },
   {
     "name": "logseq-plugin-logging-search",
@@ -3192,8 +3192,8 @@
     "repo": "YU000jp/logseq-plugin-logging-search",
     "version": "",
     "dir": "logseq-plugin-logging-search",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-01-01T14:08:26Z",
+    "last_updated": "2025-01-01T14:08:26Z"
   },
   {
     "name": "logseq-plugin-mmarked",
@@ -3203,8 +3203,8 @@
     "repo": "mathedu4all/mmarked-logseq-extension",
     "version": "",
     "dir": "logseq-plugin-mmarked",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-11-11T09:11:46Z",
+    "last_updated": "2024-11-11T09:11:46Z"
   },
   {
     "name": "logseq-plugin-multi-random-note",
@@ -3214,8 +3214,8 @@
     "repo": "YU000jp/logseq-plugin-multi-random-note",
     "version": "",
     "dir": "logseq-plugin-multi-random-note",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-12-22T10:15:06Z",
+    "last_updated": "2024-12-22T10:15:06Z"
   },
   {
     "name": "logseq-plugin-multiple-assets",
@@ -3225,8 +3225,8 @@
     "repo": "YU000jp/logseq-plugin-multiple-assets",
     "version": "",
     "dir": "logseq-plugin-multiple-assets",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-06-27T08:46:47Z",
+    "last_updated": "2023-06-27T08:46:47Z"
   },
   {
     "name": "logseq-plugin-noisy",
@@ -3236,8 +3236,8 @@
     "repo": "meain/logseq-plugin-noisy",
     "version": "",
     "dir": "logseq-plugin-noisy",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-09-15T08:48:26Z",
+    "last_updated": "2023-09-18T02:12:48Z"
   },
   {
     "name": "logseq-plugin-omnifocus",
@@ -3247,8 +3247,8 @@
     "repo": "zhengyu-yang/logseq-plugin-omnifocus",
     "version": "",
     "dir": "logseq-plugin-omnifocus",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-03-07T07:00:59Z",
+    "last_updated": "2023-03-07T07:02:59Z"
   },
   {
     "name": "logseq-plugin-open-page-in-logseq",
@@ -3258,8 +3258,8 @@
     "repo": "freder/logseq-plugin-open-page-in-logseq",
     "version": "",
     "dir": "logseq-plugin-open-page-in-logseq",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-05-05T15:15:32Z",
+    "last_updated": "2023-05-05T15:15:32Z"
   },
   {
     "name": "logseq-plugin-openproject",
@@ -3269,8 +3269,8 @@
     "repo": "mkluge/logseq-openproject",
     "version": "",
     "dir": "logseq-plugin-openproject",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-08-23T18:50:43Z",
+    "last_updated": "2023-08-29T17:04:30Z"
   },
   {
     "name": "logseq-plugin-page-export",
@@ -3280,8 +3280,8 @@
     "repo": "william-apps/logseq-plugin-page-export",
     "version": "",
     "dir": "logseq-plugin-page-export",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-05-15T08:34:54Z",
+    "last_updated": "2022-05-17T13:07:03Z"
   },
   {
     "name": "logseq-plugin-panel-coloring",
@@ -3291,8 +3291,8 @@
     "repo": "YU000jp/logseq-plugin-panel-coloring",
     "version": "",
     "dir": "logseq-plugin-panel-coloring",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-12-06T12:49:09Z",
+    "last_updated": "2023-06-10T13:32:53Z"
   },
   {
     "name": "logseq-plugin-query-chart",
@@ -3302,8 +3302,8 @@
     "repo": "0w0miki/logseq-plugin-query-chart",
     "version": "",
     "dir": "logseq-plugin-query-chart",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-11-13T11:30:11Z",
+    "last_updated": "2022-11-13T11:30:11Z"
   },
   {
     "name": "logseq-plugin-quick-references",
@@ -3313,8 +3313,8 @@
     "repo": "renatocaliari/logseq-plugin-quick-references",
     "version": "",
     "dir": "logseq-plugin-quick-references",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-05-02T17:49:59Z",
+    "last_updated": "2022-05-03T09:07:19Z"
   },
   {
     "name": "logseq-plugin-quickly-para-method",
@@ -3324,8 +3324,8 @@
     "repo": "YU000jp/logseq-plugin-quickly-para-method",
     "version": "",
     "dir": "logseq-plugin-quickly-para-method",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-06-09T14:39:38Z",
+    "last_updated": "2023-11-12T04:22:14Z"
   },
   {
     "name": "logseq-plugin-rakuten-books",
@@ -3335,8 +3335,8 @@
     "repo": "YU000jp/logseq-plugin-rakuten-books",
     "version": "",
     "dir": "logseq-plugin-rakuten-books",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-03-26T10:36:56Z",
+    "last_updated": "2023-03-26T10:36:56Z"
   },
   {
     "name": "logseq-plugin-refile",
@@ -3346,8 +3346,8 @@
     "repo": "meain/logseq-plugin-refile",
     "version": "",
     "dir": "logseq-plugin-refile",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-05-31T06:50:40Z",
+    "last_updated": "2023-05-31T06:50:40Z"
   },
   {
     "name": "logseq-plugin-runjs",
@@ -3357,8 +3357,8 @@
     "repo": "meain/logseq-plugin-runjs",
     "version": "",
     "dir": "logseq-plugin-runjs",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-10-14T05:04:33Z",
+    "last_updated": "2023-10-15T11:14:36Z"
   },
   {
     "name": "logseq-plugin-short-namespaces",
@@ -3368,8 +3368,8 @@
     "repo": "YU000jp/logseq-plugin-short-namespaces",
     "version": "",
     "dir": "logseq-plugin-short-namespaces",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-06-09T14:02:46Z",
+    "last_updated": "2023-11-12T04:16:17Z"
   },
   {
     "name": "logseq-plugin-show-page-date",
@@ -3379,8 +3379,8 @@
     "repo": "YU000jp/logseq-plugin-show-page-date",
     "version": "",
     "dir": "logseq-plugin-show-page-date",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-11-05T11:51:45Z",
+    "last_updated": "2023-11-05T11:51:45Z"
   },
   {
     "name": "logseq-plugin-show-weekday-and-week-number",
@@ -3390,8 +3390,8 @@
     "repo": "YU000jp/logseq-plugin-show-weekday-and-week-number",
     "version": "",
     "dir": "logseq-plugin-show-weekday-and-week-number",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-05-25T14:17:51Z",
+    "last_updated": "2023-11-12T04:26:47Z"
   },
   {
     "name": "logseq-plugin-side-block",
@@ -3401,8 +3401,8 @@
     "repo": "YU000jp/logseq-plugin-side-block",
     "version": "",
     "dir": "logseq-plugin-side-block",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-10-13T06:19:22Z",
+    "last_updated": "2024-07-27T00:23:36Z"
   },
   {
     "name": "logseq-plugin-single-journal",
@@ -3412,8 +3412,8 @@
     "repo": "YU000jp/logseq-plugin-single-journal",
     "version": "",
     "dir": "logseq-plugin-single-journal",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-01-03T00:25:23Z",
+    "last_updated": "2024-04-28T15:09:41Z"
   },
   {
     "name": "logseq-plugin-task-check-date",
@@ -3423,8 +3423,8 @@
     "repo": "DimitryDushkin/logseq-plugin-task-check-date",
     "version": "",
     "dir": "logseq-plugin-task-check-date",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-10-20T21:51:50Z",
+    "last_updated": "2022-10-20T21:51:50Z"
   },
   {
     "name": "logseq-plugin-task-suggest",
@@ -3434,8 +3434,8 @@
     "repo": "YU000jp/logseq-plugin-task-suggest",
     "version": "",
     "dir": "logseq-plugin-task-suggest",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-05-25T10:02:43Z",
+    "last_updated": "2025-05-25T10:02:43Z"
   },
   {
     "name": "logseq-plugin-template-block-from-toolbar",
@@ -3445,8 +3445,8 @@
     "repo": "YU000jp/logseq-plugin-template-block-from-toolbar",
     "version": "",
     "dir": "logseq-plugin-template-block-from-toolbar",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-07-26T23:39:08Z",
+    "last_updated": "2024-07-26T23:39:08Z"
   },
   {
     "name": "logseq-plugin-ticktick",
@@ -3456,8 +3456,8 @@
     "repo": "luckykellan/logseq-plugin-ticktick",
     "version": "",
     "dir": "logseq-plugin-ticktick",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-04-10T01:08:13Z",
+    "last_updated": "2024-04-12T22:47:48Z"
   },
   {
     "name": "logseq-plugin-toolbar-enhance",
@@ -3467,8 +3467,8 @@
     "repo": "YU000jp/logseq-plugin-toolbar-enhance",
     "version": "",
     "dir": "logseq-plugin-toolbar-enhance",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-08-03T22:42:48Z",
+    "last_updated": "2024-08-03T22:42:48Z"
   },
   {
     "name": "logseq-plugin-transfer-journal-todos",
@@ -3478,8 +3478,8 @@
     "repo": "absorb-it/logseq-plugin-transfer-journal-todos",
     "version": "",
     "dir": "logseq-plugin-transfer-journal-todos",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-01-23T18:33:34Z",
+    "last_updated": "2025-01-26T19:50:32Z"
   },
   {
     "name": "logseq-plugin-two-hop-link",
@@ -3489,8 +3489,8 @@
     "repo": "YU000jp/logseq-plugin-two-hop-link",
     "version": "",
     "dir": "logseq-plugin-two-hop-link",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-09-23T10:05:04Z",
+    "last_updated": "2023-09-23T10:05:04Z"
   },
   {
     "name": "logseq-plugin-vocabulary-card",
@@ -3500,8 +3500,8 @@
     "repo": "0xRichardH/logseq-plugin-vocabulary-card",
     "version": "",
     "dir": "logseq-plugin-vocabulary-card",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-01-03T17:43:44Z",
+    "last_updated": "2024-01-03T17:43:44Z"
   },
   {
     "name": "logseq-plugin-weather",
@@ -3511,8 +3511,8 @@
     "repo": "axelav/logseq-plugin-weather",
     "version": "",
     "dir": "logseq-plugin-weather",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-12-25T22:15:39Z",
+    "last_updated": "2022-12-25T22:15:39Z"
   },
   {
     "name": "logseq-plugin-weekdays-and-weekends",
@@ -3522,8 +3522,8 @@
     "repo": "YU000jp/logseq-plugin-weekdays-and-weekends",
     "version": "",
     "dir": "logseq-plugin-weekdays-and-weekends",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-05-01T22:02:24Z",
+    "last_updated": "2023-11-12T04:37:03Z"
   },
   {
     "name": "logseq-polyrhythmic",
@@ -3533,8 +3533,8 @@
     "repo": "wonyoung-jang/logseq-PolyRhythmic",
     "version": "",
     "dir": "logseq-polyrhythmic",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-03-21T20:01:14Z",
+    "last_updated": "2025-03-21T20:01:14Z"
   },
   {
     "name": "logseq-pomodoro-technique",
@@ -3544,8 +3544,8 @@
     "repo": "denvey/logseq-pomodoro-technique",
     "version": "",
     "dir": "logseq-pomodoro-technique",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-09-04T02:43:11Z",
+    "last_updated": "2022-09-04T02:43:11Z"
   },
   {
     "name": "logseq-pomodoro-timer",
@@ -3555,8 +3555,8 @@
     "repo": "sawhney17/logseq-pomodoro-plugin",
     "version": "",
     "dir": "logseq-pomodoro-timer",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-03-28T08:47:48Z",
+    "last_updated": "2022-03-28T08:47:48Z"
   },
   {
     "name": "logseq-power-plugin",
@@ -3566,8 +3566,8 @@
     "repo": "hkgnp/logseq-power-plugin",
     "version": "",
     "dir": "logseq-power-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-05-02T04:38:40Z",
+    "last_updated": "2022-05-02T08:22:53Z"
   },
   {
     "name": "logseq-powerblocks-plugin",
@@ -3577,8 +3577,8 @@
     "repo": "hkgnp/logseq-powerblocks-plugin",
     "version": "",
     "dir": "logseq-powerblocks-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-02-20T11:54:32Z",
+    "last_updated": "2023-02-20T11:54:32Z"
   },
   {
     "name": "logseq-powertags-plugin",
@@ -3588,8 +3588,8 @@
     "repo": "hkgnp/logseq-powertags-plugin",
     "version": "",
     "dir": "logseq-powertags-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-12-15T16:08:10Z",
+    "last_updated": "2022-12-16T08:25:24Z"
   },
   {
     "name": "logseq-pretty-html-export",
@@ -3599,8 +3599,8 @@
     "repo": "hisaknown/logseq-pretty-html-export",
     "version": "",
     "dir": "logseq-pretty-html-export",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-06-26T13:50:03Z",
+    "last_updated": "2024-06-26T13:50:03Z"
   },
   {
     "name": "logseq-preview-footnote",
@@ -3610,8 +3610,8 @@
     "repo": "b-yp/logseq-preview-footnote",
     "version": "",
     "dir": "logseq-preview-footnote",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-10-22T11:21:12Z",
+    "last_updated": "2023-10-22T11:21:12Z"
   },
   {
     "name": "logseq-privacy-mode",
@@ -3621,8 +3621,8 @@
     "repo": "duydl/logseq-privacy-mode",
     "version": "",
     "dir": "logseq-privacy-mode",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-10-10T07:48:42Z",
+    "last_updated": "2023-10-10T07:48:42Z"
   },
   {
     "name": "logseq-property-visualizer",
@@ -3632,8 +3632,8 @@
     "repo": "sawhney17/logseq-property-visualizer",
     "version": "",
     "dir": "logseq-property-visualizer",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-01-25T20:31:41Z",
+    "last_updated": "2022-01-26T06:44:15Z"
   },
   {
     "name": "logseq-psummarise-plugin",
@@ -3643,8 +3643,8 @@
     "repo": "hkgnp/logseq-psummarise-plugin",
     "version": "",
     "dir": "logseq-psummarise-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-04-10T14:59:00Z",
+    "last_updated": "2022-04-10T14:59:00Z"
   },
   {
     "name": "logseq-quattro-theme",
@@ -3654,8 +3654,8 @@
     "repo": "rcvd/logseq-quattro-theme",
     "version": "",
     "dir": "logseq-quattro-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-12-15T19:28:53Z",
+    "last_updated": "2021-12-15T19:28:53Z"
   },
   {
     "name": "logseq-query-builder-plugin",
@@ -3665,8 +3665,8 @@
     "repo": "adxsoft/logseq-query-builder-plugin",
     "version": "",
     "dir": "logseq-query-builder-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-12-31T09:04:51Z",
+    "last_updated": "2023-02-18T06:45:38Z"
   },
   {
     "name": "logseq-query-export",
@@ -3676,8 +3676,8 @@
     "repo": "benrhughes/logseq-query-export",
     "version": "",
     "dir": "logseq-query-export",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-04-08T06:16:30Z",
+    "last_updated": "2025-04-08T13:37:13Z"
   },
   {
     "name": "logseq-quick-add-plugin",
@@ -3687,8 +3687,8 @@
     "repo": "vyleung/logseq-quick-add-plugin",
     "version": "",
     "dir": "logseq-quick-add-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-05-14T14:43:18Z",
+    "last_updated": "2022-05-27T09:11:59Z"
   },
   {
     "name": "logseq-quick-capture",
@@ -3698,8 +3698,8 @@
     "repo": "tankcool/logseq-quick-capture",
     "version": "",
     "dir": "logseq-quick-capture",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-07-17T05:04:21Z",
+    "last_updated": "2022-07-17T05:07:36Z"
   },
   {
     "name": "logseq-quick-date",
@@ -3709,8 +3709,8 @@
     "repo": "13hannes11/logseq-quick-date",
     "version": "",
     "dir": "logseq-quick-date",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-08-22T20:54:58Z",
+    "last_updated": "2024-08-26T15:38:42Z"
   },
   {
     "name": "logseq-quicktodo-plugin",
@@ -3720,8 +3720,8 @@
     "repo": "hkgnp/logseq-quicktodo-plugin",
     "version": "",
     "dir": "logseq-quicktodo-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-01-28T08:09:16Z",
+    "last_updated": "2022-02-06T03:04:26Z"
   },
   {
     "name": "logseq-rainbow-tags",
@@ -3731,8 +3731,8 @@
     "repo": "swk777/logseq-rainbow-tags",
     "version": "",
     "dir": "logseq-rainbow-tags",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-06-20T15:38:34Z",
+    "last_updated": "2022-06-20T15:38:34Z"
   },
   {
     "name": "logseq-raindrop",
@@ -3742,8 +3742,8 @@
     "repo": "phildenhoff/logseq-raindrop",
     "version": "",
     "dir": "logseq-raindrop",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-05-13T08:48:10Z",
+    "last_updated": "2022-08-17T17:29:39Z"
   },
   {
     "name": "logseq-random-block",
@@ -3753,8 +3753,8 @@
     "repo": "vipzhicheng/logseq-plugin-random-block",
     "version": "",
     "dir": "logseq-random-block",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-08-19T10:10:27Z",
+    "last_updated": "2022-08-19T10:10:27Z"
   },
   {
     "name": "logseq-random-note",
@@ -3764,8 +3764,8 @@
     "repo": "tankcool/logseq-random-note",
     "version": "",
     "dir": "logseq-random-note",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-09-16T02:09:02Z",
+    "last_updated": "2022-05-21T17:14:00Z"
   },
   {
     "name": "logseq-randomutils-plugin",
@@ -3775,8 +3775,8 @@
     "repo": "hkgnp/logseq-randomutils-plugin",
     "version": "",
     "dir": "logseq-randomutils-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-02-20T11:54:32Z",
+    "last_updated": "2023-04-17T13:54:48Z"
   },
   {
     "name": "logseq-readwise-official-plugin",
@@ -3786,8 +3786,8 @@
     "repo": "readwiseio/logseq-readwise-official-plugin",
     "version": "",
     "dir": "logseq-readwise-official-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-07-04T21:41:26Z",
+    "last_updated": "2022-07-05T14:32:52Z"
   },
   {
     "name": "logseq-readwise-reader-export",
@@ -3797,8 +3797,8 @@
     "repo": "pstuifzand/logseq-readwise-reader-export",
     "version": "",
     "dir": "logseq-readwise-reader-export",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-11-06T13:36:35Z",
+    "last_updated": "2022-11-07T06:33:11Z"
   },
   {
     "name": "logseq-recipeimporter-plugin",
@@ -3808,8 +3808,8 @@
     "repo": "hkgnp/logseq-recipeimporter-plugin",
     "version": "",
     "dir": "logseq-recipeimporter-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-03-17T07:28:28Z",
+    "last_updated": "2022-03-17T07:28:28Z"
   },
   {
     "name": "logseq-recurrence-plugin",
@@ -3819,8 +3819,8 @@
     "repo": "hkgnp/logseq-recurrence-plugin",
     "version": "",
     "dir": "logseq-recurrence-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-02-10T16:30:27Z",
+    "last_updated": "2022-02-10T16:30:27Z"
   },
   {
     "name": "logseq-reference-styles",
@@ -3830,8 +3830,8 @@
     "repo": "benjaffe/logseq-reference-styles",
     "version": "",
     "dir": "logseq-reference-styles",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-03-01T02:26:18Z",
+    "last_updated": "2022-03-03T23:58:02Z"
   },
   {
     "name": "logseq-reflect-theme",
@@ -3841,8 +3841,8 @@
     "repo": "natsustan/logseq-reflect-theme",
     "version": "",
     "dir": "logseq-reflect-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-03-15T08:24:52Z",
+    "last_updated": "2023-03-24T09:38:46Z"
   },
   {
     "name": "logseq-regex-linker",
@@ -3852,8 +3852,8 @@
     "repo": "AskMeAgain/logseq-regex-linker",
     "version": "",
     "dir": "logseq-regex-linker",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-03-03T10:35:42Z",
+    "last_updated": "2024-03-04T04:00:41Z"
   },
   {
     "name": "logseq-reminder",
@@ -3863,8 +3863,8 @@
     "repo": "sethyuan/logseq-plugin-reminder",
     "version": "",
     "dir": "logseq-reminder",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-11-07T14:09:39Z",
+    "last_updated": "2023-05-29T02:34:46Z"
   },
   {
     "name": "logseq-remove-empty-blocks",
@@ -3874,8 +3874,8 @@
     "repo": "Cologler/logseq-remove-empty-blocks-typescript",
     "version": "",
     "dir": "logseq-remove-empty-blocks",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-07-25T10:20:58Z",
+    "last_updated": "2023-07-25T10:20:58Z"
   },
   {
     "name": "logseq-rename-page-shortcut",
@@ -3885,8 +3885,8 @@
     "repo": "fmos/logseq-rename-page-shortcut",
     "version": "",
     "dir": "logseq-rename-page-shortcut",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-10-29T14:25:59Z",
+    "last_updated": "2024-10-31T02:07:22Z"
   },
   {
     "name": "logseq-renamedates-plugin",
@@ -3896,8 +3896,8 @@
     "repo": "benjypng/logseq-renamedates-plugin",
     "version": "",
     "dir": "logseq-renamedates-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-07-20T02:11:21Z",
+    "last_updated": "2024-07-20T02:11:21Z"
   },
   {
     "name": "logseq-richtexteditor-plugin",
@@ -3907,8 +3907,8 @@
     "repo": "benjypng/logseq-richtexteditor-plugin",
     "version": "",
     "dir": "logseq-richtexteditor-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-08-17T10:33:47Z",
+    "last_updated": "2024-08-17T10:33:47Z"
   },
   {
     "name": "logseq-rose-pine-theme",
@@ -3918,8 +3918,8 @@
     "repo": "ebarruel/logseq-rose-pine-theme",
     "version": "",
     "dir": "logseq-rose-pine-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-03-29T02:48:48Z",
+    "last_updated": "2024-03-29T03:22:40Z"
   },
   {
     "name": "logseq-rss-reader",
@@ -3929,8 +3929,8 @@
     "repo": "b-yp/logseq-rss-reader",
     "version": "",
     "dir": "logseq-rss-reader",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-07-22T19:35:34Z",
+    "last_updated": "2023-07-22T19:35:34Z"
   },
   {
     "name": "logseq-rtl-mode-plugin",
@@ -3940,8 +3940,8 @@
     "repo": "sawhney17/logseq-rtl-mode-plugin",
     "version": "",
     "dir": "logseq-rtl-mode-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-03-16T12:38:18Z",
+    "last_updated": "2022-03-19T05:23:19Z"
   },
   {
     "name": "logseq-runit-plugin",
@@ -3951,8 +3951,8 @@
     "repo": "bencode/logseq-runit-plugin",
     "version": "",
     "dir": "logseq-runit-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-07-03T05:26:09Z",
+    "last_updated": "2025-07-03T07:29:38Z"
   },
   {
     "name": "logseq-save-scrollbar-position",
@@ -3962,8 +3962,8 @@
     "repo": "studyduck/logseq-save-scrollbar-position",
     "version": "",
     "dir": "logseq-save-scrollbar-position",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-06-30T08:07:15Z",
+    "last_updated": "2023-07-03T10:26:31Z"
   },
   {
     "name": "logseq-schrodinger",
@@ -3973,8 +3973,8 @@
     "repo": "sawhney17/logseq-schrodinger",
     "version": "",
     "dir": "logseq-schrodinger",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-04-16T15:35:25Z",
+    "last_updated": "2022-04-25T06:57:48Z"
   },
   {
     "name": "logseq-scroll-past-bottom",
@@ -3984,8 +3984,8 @@
     "repo": "RubenSmn/logseq-scroll-past-bottom",
     "version": "",
     "dir": "logseq-scroll-past-bottom",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-11-04T20:41:43Z",
+    "last_updated": "2023-11-04T20:41:43Z"
   },
   {
     "name": "logseq-searchable-images",
@@ -3995,8 +3995,8 @@
     "repo": "sawhney17/logseq-searchable",
     "version": "",
     "dir": "logseq-searchable-images",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-04-03T18:54:55Z",
+    "last_updated": "2022-06-02T04:26:03Z"
   },
   {
     "name": "logseq-sepia-theme",
@@ -4006,8 +4006,8 @@
     "repo": "crendl/logseq-sepia-theme",
     "version": "",
     "dir": "logseq-sepia-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-11-16T10:49:37Z",
+    "last_updated": "2021-11-16T10:49:37Z"
   },
   {
     "name": "logseq-shallow-copy",
@@ -4017,8 +4017,8 @@
     "repo": "MateuszMyalski/logseq-plugin-shallow-copy",
     "version": "",
     "dir": "logseq-shallow-copy",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-11-24T12:27:17Z",
+    "last_updated": "2023-12-03T16:12:19Z"
   },
   {
     "name": "logseq-show-github-star",
@@ -4028,8 +4028,8 @@
     "repo": "studyduck/logseq-show-github-star",
     "version": "",
     "dir": "logseq-show-github-star",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-08-19T09:58:30Z",
+    "last_updated": "2023-08-19T09:58:30Z"
   },
   {
     "name": "logseq-sidebar-preset",
@@ -4039,8 +4039,8 @@
     "repo": "vipzhicheng/logseq-plugin-sidebar-preset",
     "version": "",
     "dir": "logseq-sidebar-preset",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-10-10T08:28:32Z",
+    "last_updated": "2022-10-10T08:28:32Z"
   },
   {
     "name": "logseq-simpread",
@@ -4050,8 +4050,8 @@
     "repo": "OverflowCat/logseq-simpread",
     "version": "",
     "dir": "logseq-simpread",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-07-17T07:40:25Z",
+    "last_updated": "2022-07-19T07:03:21Z"
   },
   {
     "name": "logseq-slavsko-theme",
@@ -4061,8 +4061,8 @@
     "repo": "stan-voo/logseq-slavsko-theme",
     "version": "",
     "dir": "logseq-slavsko-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-11-18T00:13:47Z",
+    "last_updated": "2023-11-18T00:13:47Z"
   },
   {
     "name": "logseq-slide-reveal",
@@ -4072,8 +4072,8 @@
     "repo": "vipzhicheng/logseq-plugin-slide-reveal",
     "version": "",
     "dir": "logseq-slide-reveal",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-04-10T07:56:11Z",
+    "last_updated": "2024-04-10T07:56:11Z"
   },
   {
     "name": "logseq-sliders-plugin",
@@ -4083,8 +4083,8 @@
     "repo": "hkgnp/logseq-sliders-plugin",
     "version": "",
     "dir": "logseq-sliders-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-03-11T03:43:13Z",
+    "last_updated": "2022-03-11T04:40:40Z"
   },
   {
     "name": "logseq-smart-typing",
@@ -4094,8 +4094,8 @@
     "repo": "sethyuan/logseq-plugin-smart-typing",
     "version": "",
     "dir": "logseq-smart-typing",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-12-16T12:56:20Z",
+    "last_updated": "2023-05-29T02:34:46Z"
   },
   {
     "name": "logseq-smartblocks",
@@ -4105,8 +4105,8 @@
     "repo": "sawhney17/logseq-smartblocks",
     "version": "",
     "dir": "logseq-smartblocks",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-01-25T20:29:48Z",
+    "last_updated": "2022-01-26T06:43:32Z"
   },
   {
     "name": "logseq-smartsearch",
@@ -4116,8 +4116,8 @@
     "repo": "sethyuan/logseq-plugin-smartsearch",
     "version": "",
     "dir": "logseq-smartsearch",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-11-11T12:20:07Z",
+    "last_updated": "2023-05-29T02:34:46Z"
   },
   {
     "name": "logseq-sort-blocks",
@@ -4127,8 +4127,8 @@
     "repo": "Cologler/logseq-sort-blocks-typescript",
     "version": "",
     "dir": "logseq-sort-blocks",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-07-25T10:20:43Z",
+    "last_updated": "2023-07-25T10:20:43Z"
   },
   {
     "name": "logseq-split-block",
@@ -4138,8 +4138,8 @@
     "repo": "hyrijk/logseq-plugin-split-block",
     "version": "",
     "dir": "logseq-split-block",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-09-17T02:02:37Z",
+    "last_updated": "2021-09-17T02:02:37Z"
   },
   {
     "name": "logseq-spotify",
@@ -4149,8 +4149,8 @@
     "repo": "hankhank10/i-listened-plugin",
     "version": "",
     "dir": "logseq-spotify",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-11-30T18:18:49Z",
+    "last_updated": "2022-12-01T03:09:02Z"
   },
   {
     "name": "logseq-sticky-headers",
@@ -4160,8 +4160,8 @@
     "repo": "yoyurec/logseq-sticky-headers",
     "version": "",
     "dir": "logseq-sticky-headers",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-09-27T21:33:00Z",
+    "last_updated": "2022-09-27T21:33:00Z"
   },
   {
     "name": "logseq-style-carousel",
@@ -4171,8 +4171,8 @@
     "repo": "mlanza/logseq-style-carousel",
     "version": "",
     "dir": "logseq-style-carousel",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-02-24T00:37:35Z",
+    "last_updated": "2022-03-26T18:35:37Z"
   },
   {
     "name": "logseq-style-tweaks",
@@ -4182,8 +4182,8 @@
     "repo": "psu/logseq-style-tweaks",
     "version": "",
     "dir": "logseq-style-tweaks",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-09-11T21:40:30Z",
+    "last_updated": "2022-09-26T18:45:32Z"
   },
   {
     "name": "logseq-summarize",
@@ -4193,8 +4193,8 @@
     "repo": "avelino/logseq-summarize",
     "version": "",
     "dir": "logseq-summarize",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-01-10T01:54:34Z",
+    "last_updated": "2024-01-10T01:54:34Z"
   },
   {
     "name": "Logseq Summarizer",
@@ -4204,8 +4204,8 @@
     "repo": "trashhalo/logseq-summarizer",
     "version": "",
     "dir": "logseq-summarizer",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-06-04T14:09:48Z",
+    "last_updated": "2022-06-04T14:09:48Z"
   },
   {
     "name": "logseq-super-sync",
@@ -4215,8 +4215,8 @@
     "repo": "top/logseq-super-sync",
     "version": "",
     "dir": "logseq-super-sync",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-05-18T01:47:15Z",
+    "last_updated": "2025-05-21T03:16:17Z"
   },
   {
     "name": "logseq-swapblocks-plugin",
@@ -4226,8 +4226,8 @@
     "repo": "hkgnp/logseq-swapblocks-plugin",
     "version": "",
     "dir": "logseq-swapblocks-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-01-13T06:53:24Z",
+    "last_updated": "2022-02-06T03:04:26Z"
   },
   {
     "name": "logseq-tabbed-sidebar",
@@ -4237,8 +4237,8 @@
     "repo": "sethyuan/logseq-plugin-tabbed-sidebar",
     "version": "",
     "dir": "logseq-tabbed-sidebar",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-06-25T01:29:13Z",
+    "last_updated": "2023-06-25T01:29:13Z"
   },
   {
     "name": "logseq-tabler-picker",
@@ -4248,8 +4248,8 @@
     "repo": "yoyurec/logseq-tabler-picker",
     "version": "",
     "dir": "logseq-tabler-picker",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-03-04T13:40:35Z",
+    "last_updated": "2023-03-04T13:40:35Z"
   },
   {
     "name": "logseq-tablerender-plugin",
@@ -4259,8 +4259,8 @@
     "repo": "hkgnp/logseq-tablerender-plugin",
     "version": "",
     "dir": "logseq-tablerender-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-12-24T14:49:50Z",
+    "last_updated": "2022-02-06T03:04:26Z"
   },
   {
     "name": "logseq-tabs",
@@ -4270,8 +4270,8 @@
     "repo": "pengx17/logseq-plugin-tabs",
     "version": "",
     "dir": "logseq-tabs",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-09-08T15:59:07Z",
+    "last_updated": "2021-09-09T04:13:28Z"
   },
   {
     "name": "logseq-tags",
@@ -4281,8 +4281,8 @@
     "repo": "gidongkwon/logseq-plugin-tags",
     "version": "",
     "dir": "logseq-tags",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-01-02T13:12:13Z",
+    "last_updated": "2022-01-02T13:12:13Z"
   },
   {
     "name": "logseq-task-automation",
@@ -4292,8 +4292,8 @@
     "repo": "aiirobyte/logseq-task-automation",
     "version": "",
     "dir": "logseq-task-automation",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-01-19T15:14:14Z",
+    "last_updated": "2023-01-20T12:29:38Z"
   },
   {
     "name": "logseq-task-done-time-mini",
@@ -4303,8 +4303,8 @@
     "repo": "mlhiter/logseq-task-done-time-mini",
     "version": "",
     "dir": "logseq-task-done-time-mini",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-08-01T18:12:36Z",
+    "last_updated": "2024-08-02T09:03:53Z"
   },
   {
     "name": "logseq-task-favorite-tree",
@@ -4314,8 +4314,8 @@
     "repo": "sethyuan/logseq-plugin-favorite-tree",
     "version": "",
     "dir": "logseq-task-favorite-tree",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-08-19T03:04:12Z",
+    "last_updated": "2023-08-19T03:04:12Z"
   },
   {
     "name": "logseq-task-management-shortcuts",
@@ -4325,8 +4325,8 @@
     "repo": "vipzhicheng/logseq-plugin-task-management-shortcuts",
     "version": "",
     "dir": "logseq-task-management-shortcuts",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-01-17T08:02:33Z",
+    "last_updated": "2022-04-08T03:23:05Z"
   },
   {
     "name": "logseq-task-reminder",
@@ -4336,8 +4336,8 @@
     "repo": "sethyuan/logseq-plugin-task-reminder",
     "version": "",
     "dir": "logseq-task-reminder",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-08-18T08:10:43Z",
+    "last_updated": "2023-08-18T08:10:43Z"
   },
   {
     "name": "logseq-tenset-theme",
@@ -4347,8 +4347,8 @@
     "repo": "tenset-security/logseq-tenset-theme",
     "version": "",
     "dir": "logseq-tenset-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-08-04T11:31:05Z",
+    "last_updated": "2023-08-04T11:31:05Z"
   },
   {
     "name": "logseq-terminal",
@@ -4358,8 +4358,8 @@
     "repo": "vipzhicheng/logseq-plugin-terminal",
     "version": "",
     "dir": "logseq-terminal",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-06-10T13:13:04Z",
+    "last_updated": "2024-06-10T13:13:04Z"
   },
   {
     "name": "logseq-textbook-theme",
@@ -4369,8 +4369,8 @@
     "repo": "joeykhuang/logseq-textbook-theme",
     "version": "",
     "dir": "logseq-textbook-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-12-30T17:11:37Z",
+    "last_updated": "2021-12-30T17:11:37Z"
   },
   {
     "name": "logseq-that-year-today",
@@ -4380,8 +4380,8 @@
     "repo": "b-yp/logseq-that-year-today",
     "version": "",
     "dir": "logseq-that-year-today",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-08-12T15:56:48Z",
+    "last_updated": "2024-08-12T15:56:48Z"
   },
   {
     "name": "logseq-theme-classic-dark-theme-pack",
@@ -4391,8 +4391,8 @@
     "repo": "YU000jp/logseq-theme-classic-dark-theme-pack",
     "version": "",
     "dir": "logseq-theme-classic-dark-theme-pack",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-07-27T13:12:51Z",
+    "last_updated": "2023-11-12T04:48:05Z"
   },
   {
     "name": "logseq-theorem-formatter",
@@ -4402,8 +4402,8 @@
     "repo": "vanabel/logseq-theorem-formatter",
     "version": "",
     "dir": "logseq-theorem-formatter",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-06-03T04:06:37Z",
+    "last_updated": "2025-06-12T08:34:24Z"
   },
   {
     "name": "logseq-things-theme",
@@ -4413,8 +4413,8 @@
     "repo": "rcvd/logseq-things-theme",
     "version": "",
     "dir": "logseq-things-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-12-19T11:54:02Z",
+    "last_updated": "2022-01-04T05:32:43Z"
   },
   {
     "name": "logseq-ticktick-plugin",
@@ -4424,8 +4424,8 @@
     "repo": "mxschll/logseq-ticktick-plugin",
     "version": "",
     "dir": "logseq-ticktick-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-04-10T17:22:02Z",
+    "last_updated": "2023-04-10T17:22:02Z"
   },
   {
     "name": "logseq-tidy-blocks-plugin",
@@ -4435,8 +4435,8 @@
     "repo": "vyleung/logseq-tidy-blocks-plugin",
     "version": "",
     "dir": "logseq-tidy-blocks-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-04-27T17:48:52Z",
+    "last_updated": "2022-06-26T08:40:31Z"
   },
   {
     "name": "logseq-time-recorder",
@@ -4446,8 +4446,8 @@
     "repo": "5hir0kur0/logseq-time-recorder",
     "version": "",
     "dir": "logseq-time-recorder",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-12-26T01:22:44Z",
+    "last_updated": "2023-12-26T01:22:44Z"
   },
   {
     "name": "logseq-time-tracking-updater",
@@ -4457,8 +4457,8 @@
     "repo": "kmlprtsng/logseq-time-tracking-updater",
     "version": "",
     "dir": "logseq-time-tracking-updater",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-12-15T16:24:32Z",
+    "last_updated": "2024-12-16T04:18:32Z"
   },
   {
     "name": "logseq-timestamp-converter",
@@ -4468,8 +4468,8 @@
     "repo": "uddhavdave/logseq-timestamp-converter",
     "version": "",
     "dir": "logseq-timestamp-converter",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-05-18T15:02:02Z",
+    "last_updated": "2025-05-19T01:25:47Z"
   },
   {
     "name": "logseq-title-bar",
@@ -4479,8 +4479,8 @@
     "repo": "vipzhicheng/logseq-plugin-title-bar",
     "version": "",
     "dir": "logseq-title-bar",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-01-22T11:08:35Z",
+    "last_updated": "2024-04-10T08:00:51Z"
   },
   {
     "name": "logseq-to-flomo",
@@ -4490,8 +4490,8 @@
     "repo": "prnake/logseq-to-flomo",
     "version": "",
     "dir": "logseq-to-flomo",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-02-07T16:23:34Z",
+    "last_updated": "2023-02-07T16:23:34Z"
   },
   {
     "name": "logseq-toc-plugin",
@@ -4501,8 +4501,8 @@
     "repo": "benjypng/logseq-toc-plugin",
     "version": "",
     "dir": "logseq-toc-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-12-16T17:56:33Z",
+    "last_updated": "2024-07-13T07:49:46Z"
   },
   {
     "name": "logseq-tocgen",
@@ -4512,8 +4512,8 @@
     "repo": "sethyuan/logseq-plugin-tocgen",
     "version": "",
     "dir": "logseq-tocgen",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-12-21T11:59:22Z",
+    "last_updated": "2023-05-29T02:34:46Z"
   },
   {
     "name": "logseq-todayevents-plugin",
@@ -4523,8 +4523,8 @@
     "repo": "benjypng/logseq-todayevents-plugin",
     "version": "",
     "dir": "logseq-todayevents-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-07-20T02:11:21Z",
+    "last_updated": "2024-07-20T02:11:21Z"
   },
   {
     "name": "logseq-todo-exploder",
@@ -4534,8 +4534,8 @@
     "repo": "sawhney17/logseq-todo-exploder",
     "version": "",
     "dir": "logseq-todo-exploder",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-04-28T21:41:29Z",
+    "last_updated": "2022-04-29T01:49:24Z"
   },
   {
     "name": "logseq-todo-master",
@@ -4545,8 +4545,8 @@
     "repo": "pengx17/logseq-plugin-todo-master",
     "version": "",
     "dir": "logseq-todo-master",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-09-08T15:59:07Z",
+    "last_updated": "2021-12-02T07:26:51Z"
   },
   {
     "name": "logseq-todo-plugin",
@@ -4556,8 +4556,8 @@
     "repo": "ahonn/logseq-plugin-todo",
     "version": "",
     "dir": "logseq-todo-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-04-26T07:13:06Z",
+    "last_updated": "2023-01-12T08:40:48Z"
   },
   {
     "name": "logseq-todoist-plugin",
@@ -4567,8 +4567,8 @@
     "repo": "hkgnp/logseq-todoist-plugin",
     "version": "",
     "dir": "logseq-todoist-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-10-31T09:23:38Z",
+    "last_updated": "2021-10-31T09:23:38Z"
   },
   {
     "name": "logseq-toolbox",
@@ -4578,8 +4578,8 @@
     "repo": "tankcool/logseq-toolbox",
     "version": "",
     "dir": "logseq-toolbox",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-09-25T08:31:56Z",
+    "last_updated": "2021-09-25T08:31:56Z"
   },
   {
     "name": "logseq-trackhabits2-plugin",
@@ -4589,8 +4589,8 @@
     "repo": "hkgnp/logseq-trackhabits2-plugin",
     "version": "",
     "dir": "logseq-trackhabits2-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-01-07T08:41:24Z",
+    "last_updated": "2022-02-06T03:04:26Z"
   },
   {
     "name": "logseq-transcriber",
@@ -4600,8 +4600,8 @@
     "repo": "marijnbent/logseq-transcriber",
     "version": "",
     "dir": "logseq-transcriber",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-05-20T12:10:11Z",
+    "last_updated": "2025-05-21T03:16:17Z"
   },
   {
     "name": "logseq-trello-plugin",
@@ -4611,8 +4611,8 @@
     "repo": "jarodise/logseq-trello-plugin",
     "version": "",
     "dir": "logseq-trello-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-12-04T05:14:24Z",
+    "last_updated": "2024-12-04T05:14:24Z"
   },
   {
     "name": "logseq-tweet-extractor",
@@ -4622,8 +4622,8 @@
     "repo": "sawhney17/logseq-twitter-extractor",
     "version": "",
     "dir": "logseq-tweet-extractor",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-03-27T13:58:56Z",
+    "last_updated": "2022-03-28T14:27:48Z"
   },
   {
     "name": "logseq-tweet-plugin",
@@ -4633,8 +4633,8 @@
     "repo": "hkgnp/logseq-tweet-plugin",
     "version": "",
     "dir": "logseq-tweet-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-01-26T06:21:54Z",
+    "last_updated": "2022-02-06T03:04:26Z"
   },
   {
     "name": "logseq-typewriter-mode",
@@ -4644,8 +4644,8 @@
     "repo": "b-yp/logseq-typewriter-mode",
     "version": "",
     "dir": "logseq-typewriter-mode",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-07-02T19:07:28Z",
+    "last_updated": "2023-10-27T16:19:56Z"
   },
   {
     "name": "logseq-typewriter-plugin",
@@ -4655,8 +4655,8 @@
     "repo": "dinushkaherath/logseq-typewriter-plugin",
     "version": "",
     "dir": "logseq-typewriter-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-09-06T20:28:37Z",
+    "last_updated": "2023-09-07T13:26:22Z"
   },
   {
     "name": "logseq-unofficial-readwise-plugin",
@@ -4666,8 +4666,8 @@
     "repo": "hkgnp/logseq-readwise-plugin",
     "version": "",
     "dir": "logseq-unofficial-readwise-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-12-09T02:25:02Z",
+    "last_updated": "2021-12-09T02:27:04Z"
   },
   {
     "name": "logseq-unsplash",
@@ -4677,8 +4677,8 @@
     "repo": "clearlysid/logseq-unsplash",
     "version": "",
     "dir": "logseq-unsplash",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-11-09T18:16:09Z",
+    "last_updated": "2021-11-12T09:06:31Z"
   },
   {
     "name": "logseq-update-property-mini",
@@ -4688,8 +4688,8 @@
     "repo": "mlhiter/logseq-update-property-mini",
     "version": "",
     "dir": "logseq-update-property-mini",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-03-13T04:33:45Z",
+    "last_updated": "2025-03-13T04:33:45Z"
   },
   {
     "name": "logseq-url-plus",
@@ -4699,8 +4699,8 @@
     "repo": "rlhk/logseq-url-plus",
     "version": "",
     "dir": "logseq-url-plus",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-11-04T16:07:03Z",
+    "last_updated": "2023-03-07T10:23:25Z"
   },
   {
     "name": "logseq-url-title-tagger",
@@ -4710,8 +4710,8 @@
     "repo": "imjn/logseq-url-title-tagger",
     "version": "",
     "dir": "logseq-url-title-tagger",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-02-27T19:50:00Z",
+    "last_updated": "2024-02-28T09:22:21Z"
   },
   {
     "name": "URL to Markdown",
@@ -4721,8 +4721,8 @@
     "repo": "rudifa/url-to-markdown",
     "version": "0.9.7",
     "dir": "logseq-url-to-markdown",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-08-10T15:42:52Z",
+    "last_updated": "2025-08-11T13:44:43Z"
   },
   {
     "name": "logseq-urls-md",
@@ -4732,8 +4732,8 @@
     "repo": "superman66/logseq-plugin-url-md",
     "version": "",
     "dir": "logseq-urls-md",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-07-03T17:05:19Z",
+    "last_updated": "2024-03-17T10:00:02Z"
   },
   {
     "name": "logseq-vim-editor",
@@ -4743,8 +4743,8 @@
     "repo": "vipzhicheng/logseq-plugin-vim-editor",
     "version": "",
     "dir": "logseq-vim-editor",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-03-08T02:52:33Z",
+    "last_updated": "2024-02-20T12:05:22Z"
   },
   {
     "name": "logseq-vim-shortcuts",
@@ -4754,8 +4754,8 @@
     "repo": "vipzhicheng/logseq-plugin-vim-shortcuts",
     "version": "",
     "dir": "logseq-vim-shortcuts",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-12-27T03:59:08Z",
+    "last_updated": "2025-01-04T06:50:19Z"
   },
   {
     "name": "logseq-wakatime",
@@ -4765,8 +4765,8 @@
     "repo": "b-yp/logseq-wakatime",
     "version": "",
     "dir": "logseq-wakatime",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-08-15T14:51:02Z",
+    "last_updated": "2024-08-15T14:51:02Z"
   },
   {
     "name": "logseq-wallabag",
@@ -4776,8 +4776,8 @@
     "repo": "hnykda/logseq-wallabag",
     "version": "",
     "dir": "logseq-wallabag",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-01-03T10:46:55Z",
+    "last_updated": "2025-01-03T10:46:55Z"
   },
   {
     "name": "logseq-web-parser",
@@ -4787,8 +4787,8 @@
     "repo": "sawhney17/logseq-web-parser",
     "version": "",
     "dir": "logseq-web-parser",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-05-30T20:18:23Z",
+    "last_updated": "2022-05-30T20:18:23Z"
   },
   {
     "name": "logseq-webpage-title",
@@ -4798,8 +4798,8 @@
     "repo": "paulkinlan/logseq-webpage-title",
     "version": "",
     "dir": "logseq-webpage-title",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-05-04T09:49:37Z",
+    "last_updated": "2022-05-05T06:45:51Z"
   },
   {
     "name": "logseq-weread-importer-plugin",
@@ -4809,8 +4809,8 @@
     "repo": "ahonn/logseq-plugin-weread-importer",
     "version": "",
     "dir": "logseq-weread-importer-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-01-21T08:15:55Z",
+    "last_updated": "2023-01-21T08:15:55Z"
   },
   {
     "name": "logseq-weread-sync",
@@ -4820,8 +4820,8 @@
     "repo": "sethyuan/logseq-plugin-weread-sync",
     "version": "",
     "dir": "logseq-weread-sync",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-02-20T14:12:54Z",
+    "last_updated": "2023-05-29T02:34:46Z"
   },
   {
     "name": "logseq-whisper-subtitles",
@@ -4831,8 +4831,8 @@
     "repo": "usoonees/logseq-plugin-whisper-subtitles",
     "version": "",
     "dir": "logseq-whisper-subtitles",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-10-13T19:08:34Z",
+    "last_updated": "2023-10-13T19:08:34Z"
   },
   {
     "name": "logseq-wide-eyed",
@@ -4842,8 +4842,8 @@
     "repo": "mlanza/logseq-wide-eyed",
     "version": "",
     "dir": "logseq-wide-eyed",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-02-15T00:52:45Z",
+    "last_updated": "2022-08-08T23:07:36Z"
   },
   {
     "name": "logseq-wiki-search",
@@ -4853,8 +4853,8 @@
     "repo": "enchantmenttable/logseq-wiki-search",
     "version": "",
     "dir": "logseq-wiki-search",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-10-14T19:16:28Z",
+    "last_updated": "2024-03-17T10:00:18Z"
   },
   {
     "name": "logseq-word-count-plugin",
@@ -4864,8 +4864,8 @@
     "repo": "msjsc001/logseq-word-count-plugin",
     "version": "",
     "dir": "logseq-word-count-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2025-04-01T08:44:13Z",
+    "last_updated": "2025-05-03T08:41:20Z"
   },
   {
     "name": "logseq-wordcount-plugin",
@@ -4875,8 +4875,8 @@
     "repo": "hkgnp/logseq-wordcount-plugin",
     "version": "",
     "dir": "logseq-wordcount-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-11-24T19:08:38Z",
+    "last_updated": "2022-02-06T03:04:26Z"
   },
   {
     "name": "logseq-wordpress-export",
@@ -4886,8 +4886,8 @@
     "repo": "artpi/logseq-wordpress-export",
     "version": "",
     "dir": "logseq-wordpress-export",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-10-29T18:54:59Z",
+    "last_updated": "2022-10-30T03:31:19Z"
   },
   {
     "name": "logseq-woz-theme",
@@ -4897,8 +4897,8 @@
     "repo": "haydenull/logseq-woz-theme",
     "version": "",
     "dir": "logseq-woz-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2021-09-17T10:16:28Z",
+    "last_updated": "2021-09-17T10:16:28Z"
   },
   {
     "name": "logseq-wpm-counter",
@@ -4908,8 +4908,8 @@
     "repo": "hallx833/logseq-wpm-plugin",
     "version": "",
     "dir": "logseq-wpm-counter",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-04-29T05:21:27Z",
+    "last_updated": "2023-05-15T01:08:42Z"
   },
   {
     "name": "logseq-wrap",
@@ -4919,8 +4919,8 @@
     "repo": "sethyuan/logseq-plugin-wrap",
     "version": "",
     "dir": "logseq-wrap",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-01-25T08:48:35Z",
+    "last_updated": "2023-05-29T02:34:46Z"
   },
   {
     "name": "logseq-writegood-plugin",
@@ -4930,8 +4930,8 @@
     "repo": "hkgnp/logseq-writegood-plugin",
     "version": "",
     "dir": "logseq-writegood-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-04-21T15:29:13Z",
+    "last_updated": "2022-04-21T15:29:13Z"
   },
   {
     "name": "logseq-wucai-official-plugin",
@@ -4941,8 +4941,8 @@
     "repo": "makediff/logseq-wucai-official-plugin",
     "version": "",
     "dir": "logseq-wucai-official-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-05-09T09:46:22Z",
+    "last_updated": "2023-05-11T22:21:57Z"
   },
   {
     "name": "logseq-zoterolocal-plugin",
@@ -4952,8 +4952,8 @@
     "repo": "benjypng/logseq-zoterolocal-plugin",
     "version": "",
     "dir": "logseq-zoterolocal-plugin",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2024-08-09T16:59:52Z",
+    "last_updated": "2024-08-21T12:05:29Z"
   },
   {
     "name": "logseq13-full-house",
@@ -4963,8 +4963,8 @@
     "repo": "stdword/logseq13-full-house-plugin",
     "version": "",
     "dir": "logseq13-full-house",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-03-05T01:45:04Z",
+    "last_updated": "2023-03-13T21:40:48Z"
   },
   {
     "name": "logseq13-missing-commands",
@@ -4974,8 +4974,8 @@
     "repo": "stdword/logseq13-missing-commands",
     "version": "",
     "dir": "logseq13-missing-commands",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-12-21T00:28:53Z",
+    "last_updated": "2023-12-30T01:17:59Z"
   },
   {
     "name": "logseq13-shorten-my-links",
@@ -4985,8 +4985,8 @@
     "repo": "stdword/logseq13-shorten-my-links",
     "version": "",
     "dir": "logseq13-shorten-my-links",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-10-07T22:38:50Z",
+    "last_updated": "2023-10-12T19:23:53Z"
   },
   {
     "name": "logseq_block_spacer",
@@ -4996,8 +4996,8 @@
     "repo": "gfgafn/logseq_block_spacer",
     "version": "",
     "dir": "logseq_block_spacer",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-08-14T07:13:40Z",
+    "last_updated": "2023-08-14T07:13:40Z"
   },
   {
     "name": "logsync",
@@ -5007,8 +5007,8 @@
     "repo": "clstb/logsync",
     "version": "",
     "dir": "logsync",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-12-17T16:49:13Z",
+    "last_updated": "2023-12-18T04:00:30Z"
   },
   {
     "name": "logtools",
@@ -5018,8 +5018,8 @@
     "repo": "cannibalox/logtools",
     "version": "",
     "dir": "logtools",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-03-17T03:08:35Z",
+    "last_updated": "2022-03-18T14:03:58Z"
   },
   {
     "name": "logwidgets",
@@ -5029,8 +5029,8 @@
     "repo": "Angboo/logwidgets",
     "version": "",
     "dir": "logwidgets",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-06-25T10:04:06Z",
+    "last_updated": "2022-06-25T10:04:06Z"
   },
   {
     "name": "nord-theme",
@@ -5040,8 +5040,8 @@
     "repo": "Bad3r/Logseq-Nord-Theme",
     "version": "",
     "dir": "nord-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-05-20T19:40:18Z",
+    "last_updated": "2023-05-30T01:22:38Z"
   },
   {
     "name": "ollama-logseq",
@@ -5051,8 +5051,8 @@
     "repo": "omagdy7/ollama-logseq",
     "version": "",
     "dir": "ollama-logseq",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-11-05T22:45:00Z",
+    "last_updated": "2023-11-06T11:36:51Z"
   },
   {
     "name": "samepage",
@@ -5062,8 +5062,8 @@
     "repo": "samepage-network/logseq-samepage",
     "version": "",
     "dir": "samepage",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-11-15T23:24:14Z",
+    "last_updated": "2022-11-18T03:32:20Z"
   },
   {
     "name": "slipbox",
@@ -5073,8 +5073,8 @@
     "repo": "phildenhoff/logseq-slipbox",
     "version": "",
     "dir": "slipbox",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-12-16T20:17:43Z",
+    "last_updated": "2023-12-29T02:21:41Z"
   },
   {
     "name": "template-gallery",
@@ -5084,8 +5084,8 @@
     "repo": "dangermccann/logseq-template-gallery",
     "version": "",
     "dir": "template-gallery",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-02-04T15:07:15Z",
+    "last_updated": "2023-02-04T15:07:15Z"
   },
   {
     "name": "timeflow_for_logseq",
@@ -5095,8 +5095,8 @@
     "repo": "yourmoonlight/timeflow_for_logseq",
     "version": "",
     "dir": "timeflow_for_logseq",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-09-16T08:53:50Z",
+    "last_updated": "2023-09-17T02:20:48Z"
   },
   {
     "name": "tufte-theme",
@@ -5106,8 +5106,8 @@
     "repo": "jonesmelton/logseq-tufte-theme",
     "version": "",
     "dir": "tufte-theme",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2023-02-01T12:21:13Z",
+    "last_updated": "2023-02-01T12:21:13Z"
   },
   {
     "name": "unfinished-business",
@@ -5117,7 +5117,7 @@
     "repo": "QWxleA/Unfinished-business",
     "version": "",
     "dir": "unfinished-business",
-    "created_at": "",
-    "last_updated": ""
+    "created_at": "2022-04-05T22:04:29Z",
+    "last_updated": "2022-04-06T08:10:02Z"
   }
 ]
