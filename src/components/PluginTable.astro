@@ -75,11 +75,20 @@ const sortedPlugins = sortData(plugins, sortKey, sortAsc);
   </tbody>
 </table>
 
-<script type='module'>
+<script>
+  const columns = [
+    {key: "name", label: "Name"},
+    {key: "description", label: "Description"},
+    {key: "author", label: "Author"},
+    {key: "repo", label: "Repo"},
+    {key: "version", label: "Version"},
+    {key: "created_at", label: "Created"},
+    {key: "last_updated", label: "Updated"},
+  ];
   let sortKey = "name";
   let sortAsc = true;
 
-  function sortTable(key) {
+  window.sortTable = function sortTable(key) {
     if (sortKey === key) {
       sortAsc = !sortAsc;
     } else {
@@ -94,18 +103,19 @@ const sortedPlugins = sortData(plugins, sortKey, sortAsc);
         .querySelector(
           `td:nth-child(${columns.findIndex((c) => c.key === key) + 1})`
         )
-        .textContent.trim();
+        .textContent.trim()
+        .toLowerCase();
       const bText = b
         .querySelector(
           `td:nth-child(${columns.findIndex((c) => c.key === key) + 1})`
         )
-        .textContent.trim();
+        .textContent.trim()
+        .toLowerCase();
       if (aText < bText) return sortAsc ? -1 : 1;
       if (aText > bText) return sortAsc ? 1 : -1;
       return 0;
     });
     const tbody = document.querySelector("#plugin-table tbody");
     rows.forEach((row) => tbody.appendChild(row));
-  }
-  window.sortTable = sortTable;
+  };
 </script>
