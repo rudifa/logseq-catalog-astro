@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta charset='UTF-8'>
+  <title>Logseq Marketplace Plugins</title>
+  <style>
+    .plugin-table-container { display: flex; flex-direction: column; height: 100vh; overflow: hidden; background-color: #002c38; box-sizing: border-box; border: 2px solid #6ecac9; outline: 1px solid #002c38; font-family: Arial, sans-serif; font-size: 14px; }
+    h1 { position: sticky; top: 0; z-index: 20; background: #002c38; margin: 0; padding: 1rem 0; border-bottom: 2px solid #6ecac9; text-align: center; color: #fff; }
+    .table-container { flex: 1; overflow-y: auto; margin: 1rem 12px; background-color: #fff; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+    table { border-collapse: separate; border-spacing: 0; width: 100%; }
+    thead { position: sticky; top: 0; z-index: 10; }
+    th { cursor: pointer; background: #fff; padding: 0.5rem; border-top: 1.15px solid #000; border-bottom: 1.15px solid #000; position: sticky; top: 0; }
+    td { padding: 0.5rem; border-bottom: 1px solid #eee; }
+    .date-column { width: 12ch; }
+    tbody tr:nth-child(even) { background-color: #f0f0f0; }
+    tbody tr:nth-child(odd) { background-color: #ffffff; }
+    tbody tr:hover { background-color: #6ecac9 !important; color: #fff !important; text-shadow: 0 0 2px rgba(0,0,0,0.7) !important; }
+    tbody tr { transition: all 0.2s ease; }
+  </style>
+</head>
+<body>
+<div class='plugin-table-container'>
+  <h1>Logseq Marketplace Plugins</h1>
+  <div class='table-container'>
+    <table id='plugin-table' border='1'>
+      <thead><tr>
+        <th onclick="sortTable('iconUrl')"></th><th onclick="sortTable('name')">Name</th><th onclick="sortTable('description')">Description</th><th onclick="sortTable('author')">Author</th><th onclick="sortTable('repo')">Repo</th><th onclick="sortTable('version')">Version</th><th class='date-column' onclick="sortTable('created_at')">Created</th><th class='date-column' onclick="sortTable('last_updated')">Updated</th>
+      </tr></thead>
+      <tbody>
+        <tr><td style='width:22px;text-align:center;vertical-align:middle;'><img src='/icons/block-pin.png' alt='block-pin icon' width='16' height='16' style='object-fit:contain;vertical-align:middle;'/></td><td>block-pin</td><td>Add &quot;Paste as pin&quot; shortcut for pdf and editor blocks.</td><td>Joodo &lt;wyattliang@gmail.com&gt;</td><td><a href='https://github.com/joodo/logseq-plugin-pin' target='_blank' rel='noopener noreferrer'>joodo/logseq-plugin-pin</a></td><td></td><td class='date-column'>2024-08-27</td><td class='date-column'>2024-08-29</td></tr>
+<tr><td style='width:22px;text-align:center;vertical-align:middle;'><img src='/icons/cobra-kai-fira-theme.png' alt='cobra-kai-fira-theme icon' width='16' height='16' style='object-fit:contain;vertical-align:middle;'/></td><td>cobra-kai-fira-theme</td><td>If Cobra Kai had a Logseq theme this would be it! (Made for fans of dark-mode).</td><td>Santi Younger (Fira variant by Martín Pozo)</td><td><a href='https://github.com/Martin1887/CobraKaiFira' target='_blank' rel='noopener noreferrer'>Martin1887/CobraKaiFira</a></td><td></td><td class='date-column'>2023-05-26</td><td class='date-column'>2023-05-26</td></tr>
+<tr><td style='width:22px;text-align:center;vertical-align:middle;'><img src='/icons/cobra-theme.png' alt='cobra-theme icon' width='16' height='16' style='object-fit:contain;vertical-align:middle;'/></td><td>cobra-theme</td><td>If Cobra Kai had a Logseq theme this would be it! (Made for fans of dark-mode).</td><td>Santi Younger</td><td><a href='https://github.com/santiyounger/Cobra' target='_blank' rel='noopener noreferrer'>santiyounger/Cobra</a></td><td></td><td class='date-column'>2021-10-14</td><td class='date-column'>2021-10-19</td></tr>
+<tr><td style='width:22px;text-align:center;vertical-align:middle;'><img src='/icons/cubox-2-logseq.svg' alt='cubox-2-logseq icon' width='16' height='16' style='object-fit:contain;vertical-align:middle;'/></td><td>cubox-2-logseq</td><td>Cubox (Read it later) &lt;-&gt; Logseq integration.</td><td>lsy</td><td><a href='https://github.com/stillfox-lee/cubox-2-logseq' target='_blank' rel='noopener noreferrer'>stillfox-lee/cubox-2-logseq</a></td><td></td><td class='date-column'>2025-06-24</td><td class='date-column'>2025-06-24</td></tr>
+<tr><td style='width:22px;text-align:center;vertical-align:middle;'><img src='/icons/cycle-todo-dwim.png' alt='cycle-todo-dwim icon' width='16' height='16' style='object-fit:contain;vertical-align:middle;'/></td><td>cycle-todo-dwim</td><td>Ctrl+Enter with repeating timestamp support, similar to org-mode</td><td>Aleksei Gusev</td><td><a href='https://github.com/hron/logseq-cycle-todo-dwim' target='_blank' rel='noopener noreferrer'>hron/logseq-cycle-todo-dwim</a></td><td></td><td class='date-column'>2024-12-03</td><td class='date-column'>2024-12-04</td></tr>
+<tr><td style='width:22px;text-align:center;vertical-align:middle;'><img src='/icons/darwis-mathlive-plugin.svg' alt='darwis-mathlive-plugin icon' width='16' height='16' style='object-fit:contain;vertical-align:middle;'/></td><td>darwis-mathlive-plugin</td><td>Use Mathlive to input mathematical expressions in Logseq.</td><td>hkgnp</td><td><a href='https://github.com/hkgnp/darwis-mathlive-plugin' target='_blank' rel='noopener noreferrer'>hkgnp/darwis-mathlive-plugin</a></td><td></td><td class='date-column'>2023-04-14</td><td class='date-column'>2023-04-15</td></tr>
+<tr><td style='width:22px;text-align:center;vertical-align:middle;'><img src='/icons/flomo_memos_sync.png' alt='flomo_memos_sync icon' width='16' height='16' style='object-fit:contain;vertical-align:middle;'/></td><td>flomo_memos_sync</td><td>同步 flomo 笔记至 logseq</td><td>duiliuliu</td><td><a href='https://github.com/duiliuliu/logseq-flomo-plugin' target='_blank' rel='noopener noreferrer'>duiliuliu/logseq-flomo-plugin</a></td><td></td><td class='date-column'>2022-05-19</td><td class='date-column'>2022-05-19</td></tr>
+<tr><td style='width:22px;text-align:center;vertical-align:middle;'><img src='/icons/gruvbox-theme.png' alt='gruvbox-theme icon' width='16' height='16' style='object-fit:contain;vertical-align:middle;'/></td><td>gruvbox-theme</td><td>A theme for LogSeq based on the popular Gruvbox color theme.</td><td>Kai Klostermann</td><td><a href='https://github.com/OddDev/oddbox' target='_blank' rel='noopener noreferrer'>OddDev/oddbox</a></td><td></td><td class='date-column'>2024-10-02</td><td class='date-column'>2024-10-02</td></tr>
+<tr><td style='width:22px;text-align:center;vertical-align:middle;'><img src='/icons/hanzi-writer-integration.png' alt='hanzi-writer-integration icon' width='16' height='16' style='object-fit:contain;vertical-align:middle;'/></td><td>hanzi-writer-integration</td><td>Integration of HanZi Writer to practice Chinese characters writing in Logseq</td><td>pb-pub</td><td><a href='https://github.com/pb-pub/hanzi-writer-integration' target='_blank' rel='noopener noreferrer'>pb-pub/hanzi-writer-integration</a></td><td></td><td class='date-column'>2025-01-31</td><td class='date-column'>2025-02-04</td></tr>
+<tr><td style='width:22px;text-align:center;vertical-align:middle;'><img src='/icons/harmony-theme.png' alt='harmony-theme icon' width='16' height='16' style='object-fit:contain;vertical-align:middle;'/></td><td>harmony-theme</td><td>Minimalistic custom dark and white themes keeping the classic approach of the standard Logseq theme</td><td>Dmytro Dubinin</td><td><a href='https://github.com/dmytrodubinin/Harmony-theme-for-Logseq' target='_blank' rel='noopener noreferrer'>dmytrodubinin/Harmony-theme-for-Logseq</a></td><td></td><td class='date-column'>2022-04-08</td><td class='date-column'>2022-06-08</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+<script>
+  const columns = [{"key":"iconUrl","label":""},{"key":"name","label":"Name"},{"key":"description","label":"Description"},{"key":"author","label":"Author"},{"key":"repo","label":"Repo"},{"key":"version","label":"Version"},{"key":"created_at","label":"Created"},{"key":"last_updated","label":"Updated"}];
+  let sortKey = 'name';
+  let sortAsc = true;
+  window.sortTable = function(key) {
+    if (sortKey === key) { sortAsc = !sortAsc; } else { sortKey = key; sortAsc = true; }
+    const rows = Array.from(document.querySelectorAll('#plugin-table tbody tr'));
+    rows.sort(function(a, b) {
+      var colIdx = columns.findIndex(function(c) { return c.key === key; }) + 1;
+      var aText = a.querySelector('td:nth-child(' + colIdx + ')').textContent.trim().toLowerCase();
+      var bText = b.querySelector('td:nth-child(' + colIdx + ')').textContent.trim().toLowerCase();
+      if (aText < bText) return sortAsc ? -1 : 1;
+      if (aText > bText) return sortAsc ? 1 : -1;
+      return 0;
+    });
+    var tbody = document.querySelector('#plugin-table tbody');
+    rows.forEach(function(row) { tbody.appendChild(row); });
+  };
+</script>
+</body>
+</html>

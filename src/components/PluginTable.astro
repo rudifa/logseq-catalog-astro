@@ -4,8 +4,8 @@ import path from "path";
 
 // Load data at build time
 const dataPath = path.resolve(
-  import.meta.env.SRC_DIR || "./src",
-  "data/logseq-marketplace-plugins.json"
+  import.meta.env.SRC_DIR || "./scripts",
+  "data/package-data.json"
 );
 const plugins = JSON.parse(fs.readFileSync(dataPath, "utf-8"));
 

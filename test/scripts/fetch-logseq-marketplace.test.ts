@@ -1,5 +1,5 @@
 import {describe, it, expect} from "vitest";
-import {logseqMarketplace} from "../../scripts/fetch-logseq-marketplace.js";
+import {logseqMarketplace} from "../../scripts/fetch-package-data.js";
 
 describe("logseqMarketplace export object", () => {
   it("should export fetchPackages, fetchManifest, fetchCommitDates as functions", () => {

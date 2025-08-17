@@ -1,26 +1,29 @@
 #!/usr/bin/env node
 // Script to fetch Logseq marketplace plugin package details from GitHub
-// Usage: node fetch-logseq-marketplace.js
-// Output: logseq-marketplace-plugins.json
+// Usage: node fetch-package-data.js
+// Output: package-data.json
 
 import fetch from "node-fetch";
 import fs from "fs";
 import sharp from "sharp";
 import path from "path";
 
-const OUTPUT_DIR = "src/data";
-const OUTPUT_FILE = "logseq-marketplace-plugins.json";
+const OUTPUT_DIR = "scripts/data";
+const OUTPUT_FILE = "package-data.json";
 
 const LOGSEQ_MARKETPLACE_PACKAGES_URL =
   "https://api.github.com/repos/logseq/marketplace/contents/packages";
 
-  const COMMITS_API =
-    "https://api.github.com/repos/logseq/marketplace/commits?path=packages";
+const COMMITS_API =
+  "https://api.github.com/repos/logseq/marketplace/commits?path=packages";
 
-  const RAW_LOGSEQ_MARKETPLACE_PACKAGES_URL =
+const RAW_LOGSEQ_MARKETPLACE_PACKAGES_URL =
   "https://raw.githubusercontent.com/logseq/marketplace/master/packages";
 
-// Parse command line arguments for verbose flag, max, and help
+/**
+ * Parse command line arguments for verbose flag, max, and help
+ */
+
 const args = process.argv.slice(2);
 if (args.includes("--help") || args.includes("-h")) {
   console.log(
@@ -36,6 +39,9 @@ if (maxIdx !== -1 && args.length > maxIdx + 1) {
   if (!isNaN(val) && val > 0) maxItems = val;
 }
 
+/**
+ * Run the main function
+ */
 main();
 
 /**
@@ -139,7 +145,9 @@ async function retrievePackageDetails(pkg, results) {
  */
 async function fetchPackages() {
   console.log("Fetching package list from GitHub...");
-  const res = await fetch(LOGSEQ_MARKETPLACE_PACKAGES_URL, {headers: getGithubHeaders()});
+  const res = await fetch(LOGSEQ_MARKETPLACE_PACKAGES_URL, {
+    headers: getGithubHeaders(),
+  });
   if (!res.ok) {
     let errorText = "";
     try {
@@ -281,7 +289,6 @@ function getGithubHeaders() {
   }
   return headers;
 }
-
 
 /**
  * Constructs the remote icon URL for a given package and manifest.
