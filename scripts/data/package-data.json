@@ -372,13 +372,6 @@
     "last_updated": "2025-04-24T03:26:53Z"
   },
   {
-    "name": "logseq-automatic-linker-international",
-    "error": "No manifest.json",
-    "iconUrl": "",
-    "created_at": "2025-02-23T10:29:07Z",
-    "last_updated": "2025-02-24T02:32:54Z"
-  },
-  {
     "name": "logseq-automatic-linker",
     "id": "",
     "description": "A plugin to automatically link to existing pages while typing or parse a block for potential links",
@@ -5486,7 +5479,7 @@
     "repo": "Angboo/logwidgets",
     "version": "",
     "dir": "logwidgets",
-    "iconUrl": "",
+    "iconUrl": "/icons/logwidgets.png",
     "created_at": "2022-06-25T10:04:06Z",
     "last_updated": "2022-06-25T10:04:06Z"
   },

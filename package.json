@@ -7,7 +7,11 @@
     "build": "astro build",
     "dev": "astro dev",
     "preview": "astro preview",
-    "test": "vitest run"
+    "test": "vitest run test/**/*.test.ts",
+    "fetch": "node scripts/fetch-package-data.js",
+    "fetch:min": "node scripts/fetch-package-data.js --max 10",
+    "html": "node scripts/generate-plugin-table.js",
+    "show": "open scripts/data/plugin-table.html"
   },
   "dependencies": {
     "astro": "^5.12.9"
